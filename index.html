@@ -40,13 +40,93 @@
   <!-- /Navigation -->
 
   <!-- Container -->
-  <div class="container mx-auto mt-12 mb-8">
+  <div class="container mx-auto mt-12 mb-8 px-8">
 
     <!-- Grid -->
-    <div class="grid grid-cols-3 grid-flow-col gap-8">
+    <div class="grid
+                grid-cols-1 lg:grid-cols-3 xl:grid-cols-4
+                grid-flow-row lg:grid-flow-col
+                gap-0 lg:gap-16">
 
       <!-- Section -->
-      <section class="col-span-2"></section>
+      <section class="col-span-2 xl:col-span-3">
+        
+        <!-- Articles Grid -->
+        <div class="grid 
+                    grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 
+                    grid-flow-row sm:grid-flow-row
+                    gap-8
+                    mb-8">
+
+          <!-- Note: the articles are reversed. Yes, oldest to add is on the last. -->
+          <!-- Fourth article! -->
+          <article class="rounded-lg shadow-md bg-white">
+            <img class="w-full rounded-t-lg border-b" src="/assets/images/thumbnails/2020-05-28-spa-todo-laravue.png" alt="Building an SPA To-do List using Laravel and Vue JS" />
+            <div class="py-4 px-6">
+              <h5 class="text-gray-800 hover:text-blue-600 transition ease-in-out duration-200 mb-1">
+                <a href="#">
+                  Building an SPA To-do List using Laravel and Vue JS
+                </a>
+              </h5>
+              <p class="text-gray-600">
+                It is well known that Laravel is coming with built-in Vue JS to support it's front end besides Blade. We'll using both the SPA power of Vue JS and API power of Laravel.
+              </p>
+            </div>
+          </article>
+          <!-- /Fourth article -->
+
+          <!-- Third article! -->
+          <article class="rounded-lg shadow-md bg-white">
+            <img class="w-full rounded-t-lg border-b" src="/assets/images/thumbnails/2020-05-28-spa-vuejs-vuerouter.png" alt="Building an SPA using Vue JS and Vue Router" />
+            <div class="py-4 px-6">
+              <h5 class="text-gray-800 hover:text-blue-600 transition ease-in-out duration-200 mb-1">
+                <a href="#">
+                  Building an SPA using Vue JS and Vue Router
+                </a>
+              </h5>
+              <p class="text-gray-600">
+                Vue JS is the language I love besides of Laravel because they are built-in on a single framework. Best duo of language I have ever seen.
+              </p>
+            </div>
+          </article>
+          <!-- /Third article -->
+
+          <!-- Second article! -->
+          <article class="rounded-lg shadow-md bg-white">
+            <img class="w-full rounded-t-lg border-b" src="/assets/images/thumbnails/2020-05-28-todo-vuebase.png" alt="Building a simple To-do list using Vue JS and Firebase" />
+            <div class="py-4 px-6">
+              <h5 class="text-gray-800 hover:text-blue-600 transition ease-in-out duration-200 mb-1">
+                <a href="#">
+                  Building a simple To-do list using Vue JS and Firebase
+                </a>
+              </h5>
+              <p class="text-gray-600">
+                We're literally building an old-fashioned app to learn the fundamental of a language's CRUD operation. Nothing more simple than making a to-do app.
+              </p>
+            </div>
+          </article>
+          <!-- /Second article -->
+
+          <!-- First article! -->
+          <article class="rounded-lg shadow-md bg-white">
+            <img class="w-full rounded-t-lg border-b" src="/assets/images/thumbnails/2020-05-28-arch-minimal-install.png" alt="Step by step of Arch Linux minimal installation" />
+            <div class="py-4 px-6">
+              <h5 class="text-gray-800 hover:text-blue-600 transition ease-in-out duration-200 mb-1">
+                <a href="#">
+                  Step by step of Arch Linux minimal installation
+                </a>
+              </h5>
+              <p class="text-gray-600">
+                Arch Linux is well-known as it's difficulty of installation. So I'll show you how easy actually it is to do minimal installation.
+              </p>
+            </div>
+          </article>
+          <!-- /First article -->
+
+        </div>
+        <!-- /Articles Grid -->
+
+      </section>
       <!-- /Section -->
 
       <!-- Aside -->
@@ -66,13 +146,10 @@
           <p class="text-center mb-4">
             Not that much loves Instagram and Twitter so check my <a class="text-blue-400 hover:text-blue-600 transition ease-in-out duration-200" href="https://facebook.com/irlnidallah">Facebook</a> instead. As a note, profile you will see is full of shitpost as I love spending my time doing those.
           </p>
-          <p class="text-center mb-4">
-            Oh, just a note I left for you guys, I'll write my articles mainly using Bahasa Indonesia. But don't worry, I'm trying my best to provide you a translation as clear as possible.
-          </p>
         </article>
         <!-- /Introduction -->
 
-      </aisde>
+      </aside>
       <!-- /Aside -->
 
     </div>
