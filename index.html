@@ -13,10 +13,13 @@
   <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
   <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Exo+2&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body class="bg-gray-100">
+
+  <!-- Navigation -->
   <nav class="bg-white pt-4 flex flex-col shadow-lg">
-    <div class="flex flex-row justify-center">
+    <div class="flex justify-center">
       <img class="w-16 h-16" src="/assets/icons/android-chrome-512x512.png" alt="icon">
     </div>
     <div class="border-b py-4">
@@ -34,5 +37,49 @@
       </a>
     </div>
   </nav>
+  <!-- /Navigation -->
+
+  <!-- Container -->
+  <div class="container mx-auto mt-12 mb-8">
+
+    <!-- Grid -->
+    <div class="grid grid-cols-3 grid-flow-col gap-8">
+
+      <!-- Section -->
+      <section class="col-span-2"></section>
+      <!-- /Section -->
+
+      <!-- Aside -->
+      <aside class="col-span-1">
+
+        <!-- Introuction -->
+        <article id="introduction">
+          <div class="flex justify-center">
+            <img class="w-24 h-24 rounded-full" src="/assets/images/profile_picture/hatsu.jpg" alt="Aghits Nidallah">
+          </div>
+          <h5 class="text-center font-semibold mt-6 mb-4">
+            Aghits Nidallah
+          </h5>
+          <p class="text-center mb-4">
+            A junior developer who loves Laravel a lot, a part-time blogger, loves being lonely for a long period of time. Loves to lo-fi, metal and high BPM speedcore musics. Active chatter but passive talker, spent most of his social time talking on a social media.
+          </p>
+          <p class="text-center mb-4">
+            Not that much loves Instagram and Twitter so check my <a class="text-blue-400 hover:text-blue-600 transition ease-in-out duration-200" href="https://facebook.com/irlnidallah">Facebook</a> instead. As a note, profile you will see is full of shitpost as I love spending my time doing those.
+          </p>
+          <p class="text-center mb-4">
+            Oh, just a note I left for you guys, I'll write my articles mainly using Bahasa Indonesia. But don't worry, I'm trying my best to provide you a translation as clear as possible.
+          </p>
+        </article>
+        <!-- /Introduction -->
+
+      </aisde>
+      <!-- /Aside -->
+
+    </div>
+    <!-- /Grid -->
+
+  </div>
+  <!-- /Container -->
+
 </body>
 </html>

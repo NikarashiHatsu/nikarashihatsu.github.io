@@ -5,3 +5,27 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Amiri', Georgia, 'Times New Roman', Times, serif;
 }
+
+h1 {
+  font-size: 2.986em;
+}
+
+h2 {
+  font-size: 2.488em;
+}
+
+h3 {
+  font-size: 2.074em;
+}
+
+h4 {
+  font-size: 1.728em;
+}
+
+h5 {
+  font-size: 1.44em;
+}
+
+h6 {
+  font-size: 1.2em;
+}
