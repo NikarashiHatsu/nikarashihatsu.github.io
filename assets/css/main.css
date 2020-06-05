@@ -29,3 +29,12 @@ h5 {
 h6 {
   font-size: 1.2em;
 }
+
+code {
+  font-family: 'FiraCode', 'Courier New', Courier, monospace;
+}
+
+@font-face {
+  font-family: 'FiraCode';
+  src: url('/webfonts/FiraCode-Regular.ttf');
+}
