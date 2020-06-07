@@ -182,7 +182,7 @@
               <code class="bg-gray-800 w-full text-white p-4 rounded-lg">php artisan ui vue</code>
             </div>
             <p class="text-gray-600 mb-4">
-              The installation is basically done. But we actually need two JavaScript dependencies to run Vue JS as a Single Page Application. Both of them are <code class="text-red-400 text-sm">vue-router</code> and <code class="text-red-400 text-sm">axios</code>. They are needed make the project run as an SPA and to send HTTP Request respectively. Run the command below which I will explain it after.
+              The installation is basically done. But we actually need two other JavaScript dependencies to run Vue JS as a Single Page Application. Both of them are <code class="text-red-400 text-sm">vue-router</code> and <code class="text-red-400 text-sm">axios</code>. They are needed to make the project run as an SPA and to send HTTP Request respectively. Run the command below.
             </p>
             <div class="flex mb-4">
               <code class="bg-gray-800 w-full text-white p-4 rounded-lg">
@@ -215,7 +215,7 @@
               </li>
             </ol>
             <p class="text-gray-600">
-              Done all of the commands above? If you did, good. We can advance to the next step. If you haven't make sure you did ALL of them else the program won't run perfectly.
+              Make sure you run ALL of the commands above or else, it won't run perfectly.
             </p>
           </div>
 
@@ -281,7 +281,7 @@
                 Make a controller named "TodoController", create it as a resource controller, using model Todo as it's bridge.
               </li>
               <li class="mb-1">
-                Make a migration to create 'todos' table. As a default, table name should be on plural term. It means 'index' are going 'indices', 'user' are going to be 'users', 'product' are going to be 'products' ect.
+                Make a migration to create 'todos' table. As a default, table name should be on plural term. It means that 'index' are going to be 'indices', 'user' are going to be 'users', 'product' are going to be 'products' ect.
               </li>
               <li>
                 You can simplify all of the commands above by using the 4th command. But as a note this command need <code class="text-red-400 text-sm">-mrc</code> flag which are translated to: Create a model named "Todo" with a (m)igration, and a (r)esource (c)ontroller.
@@ -302,7 +302,6 @@
                 a. Setting up the To-do migration
               </a>
             </h6>
-
             <div id="step_4a">
               <p class="text-gray-600 mb-4">
                 Migration is the first file we have to set up. Because this will determine how the data is stored to the database. Technically, we make a new table called "to-do" that will be stored into the database. First, let's open up the migration file we have created earlier on <code class="text-red-400 text-sm">/database/migrations/date_and_time_create_todos_table.php</code>.
@@ -314,7 +313,7 @@
                 <img class="w-auto md:w-8/12 lg:w-8/12 rounded-lg" src="/assets/images/codesnaps/2020-05-28-spa-todo-laravue/codesnap-3.png" alt=".env configuration">
               </div>
               <p class="text-gray-600 mb-4">
-                Pretty long code we could see there. But let's just focused on the <code class="text-red-400 text-sm">up()</code> function. From this point on, The tutorial will be focused on to the important part we will modify.
+                Pretty long code we could see there. But let's just focused on to the <code class="text-red-400 text-sm">up()</code> function. From this point on, The tutorial will be focused on to the important part we will modify.
               </p>
               <div class="flex mb-4">
                 <img class="w-auto md:w-8/12 lg:w-8/12 rounded-lg" src="/assets/images/codesnaps/2020-05-28-spa-todo-laravue/codesnap-4.png" alt=".env configuration">
@@ -351,6 +350,12 @@
                 Code above informs <code class="text-red-400 text-sm">artisan</code> to create all of the tables inside <code class="text-red-400 text-sm">/database/migrations/</code>. We are basically done interacting with our migration. Now, let's move forward into the next step.
               </p>
             </div>
+
+            <h6 class="text-gray-800 hover:text-blue-400 transition ease-in-out duration-200 mb-1">
+              <a href="#step_4b">
+                b. Setting up the To-do model
+              </a>
+            </h6>
 
           </div>
 
