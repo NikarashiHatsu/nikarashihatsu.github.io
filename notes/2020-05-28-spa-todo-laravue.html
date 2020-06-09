@@ -225,7 +225,7 @@
               <code class="bg-gray-800 w-full text-white p-4 rounded-lg">php artisan ui vue</code>
             </div>
             <p class="text-gray-600 mb-4">
-              The installation is basically done. But we actually need two other JavaScript dependencies to run Vue JS as a Single Page Application. Both of them are <code class="text-red-400 text-sm">vue-router</code> and <code class="text-red-400 text-sm">axios</code>. They are needed to make the project run as an SPA and to send HTTP Request respectively. Run the command below.
+              The installation is basically done. But we actually need three other JavaScript dependencies to run Vue JS as a Single Page Application. They are <code class="text-red-400 text-sm">vue-router</code>, <code class="text-red-400 text-sm">axios</code>, and <code class="text-red-400 text-sm">cross-env</code>. They are needed to make the project run as an SPA, send HTTP Request, and accessing <code class="text-red-400 text-sm">.env</code> file for Vue respectively. Run the command below.
             </p>
             <div class="flex mb-4">
               <code class="bg-gray-800 w-full text-white p-4 rounded-lg">
@@ -233,7 +233,7 @@
                   npm install
                 </span>
                 <span class="block">
-                  npm install vue-router axios --save-dev
+                  npm install vue-router axios cross-env --save-dev
                 </span>
                 <span class="block">
                   npm run dev
