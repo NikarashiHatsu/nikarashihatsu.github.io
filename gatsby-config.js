@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Eiyuki Lily",
+    siteUrl: "https://wonderful-northcutt-a1ab42.netlify.app/"
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
