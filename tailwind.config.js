@@ -1,6 +1,6 @@
 module.exports = {
   purge: [
-    './src/**/*.{js,jsx,ts,tsx}'
+    './index.html', './src/**/*.{vue,js,ts,jsx,tsx}'
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -9,5 +9,9 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/typography'),
+  ],
 }
