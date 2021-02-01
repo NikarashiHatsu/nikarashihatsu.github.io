@@ -1,8 +1,8 @@
-import { createWebHistory, createRouter } from 'vue-router'
+import { createWebHashHistory, createRouter } from 'vue-router'
 import Index from './pages/Index.vue'
 import Works from './pages/Works.vue'
 
-const history = createWebHistory()
+const history = createWebHashHistory()
 const routes = [
     {
         path: '/',
