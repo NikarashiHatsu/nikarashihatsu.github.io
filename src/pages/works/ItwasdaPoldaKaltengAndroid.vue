@@ -5,7 +5,14 @@
                 <h6 class="text-lg font-semibold mb-2">
                     # 425px
                 </h6>
-                <div style="max-width: 425px; width: 100%;" class="mx-auto bg-gray-50 p-4 shadow-lg rounded-lg text-gray-700">
+                <div style="max-width: 425px; width: 100%;" class="relative mx-auto bg-gray-50 p-4 shadow-lg rounded-lg text-gray-700">
+                    <a href="javascript:void(0)">
+                        <img width="50" height="50" class="absolute bottom-0 right-0 m-4 object-cover" src="./../../assets/works/itwasda_polda_kalteng_android/polisi-presisi.webp" alt="Polisi Presisi" />
+                        <span class="sr-only">
+                            Polisi Presisi
+                        </span>
+                    </a>
+                    
                     <!-- Header -->
                     <div class="flex items-center justify-between mb-8">
                         <a href="javascript:void(0)" class="flex">
@@ -29,9 +36,11 @@
                             <div class="relative w-full h-48 bg-gradient-to-br from-red-200 to-red-400 rounded-t-lg z-10"></div>
                             <!-- or an Image -->
                             <!-- <img src="source" alt="Image source" class="object-cover" /> -->
-                            <h6 class="relative font-semibold text-lg px-4 pt-3 pb-2 line-clamp-1 z-10">
-                                Veniam officia do anim in sit mollit dolor fugiat irure nulla magna.
-                            </h6>
+                            <a href="javascript:void(0)" class="transition duration-300 ease-in-out text-gray-800 hover:text-red-400">
+                                <h6 class="relative font-semibold text-lg px-4 pt-3 pb-2 line-clamp-1 z-10">
+                                    Veniam officia do anim in sit mollit dolor fugiat irure nulla magna.
+                                </h6>
+                            </a>
                             <p class="relative line-clamp-3 px-4 z-10">
                                 Do nostrud velit irure deserunt laboris deserunt eiusmod. Non labore id voluptate veniam labore enim ullamco ex commodo adipisicing dolor incididunt nisi irure. Sit irure fugiat sunt cupidatat. Ea duis cupidatat laboris velit veniam magna enim commodo laboris dolor officia dolor aliqua duis. Minim culpa occaecat nisi eiusmod. Voluptate non amet aliquip cillum excepteur ut mollit voluptate Lorem aliquip irure culpa.
                             </p>
@@ -103,12 +112,12 @@
                         </h6>
                         <div class="flex flex-col">
                             <div class="relative flex w-full p-4 bg-gradient-to-br from-white to-red-50 rounded-lg shadow-md">
-                                <!-- Use a plain container -->
                                 <div class="w-20 z-10">
+                                    <!-- Use a plain container -->
                                     <div class="w-20 h-20 bg-gradient-to-br from-yellow-200 to-yellow-400 rounded-lg"></div>
+                                    <!-- or an Image -->
+                                    <!-- <img src="source" alt="Image source" class="w-20 h-20 object-cover rounded-lg" /> -->
                                 </div>
-                                <!-- or an Image -->
-                                <!-- <img src="source" alt="Image source" class="object-cover" /> -->
 
                                 <div class="flex flex-col w-full ml-4 z-10">
                                     <a class="transition-colors duration-300 ease-in-out 
@@ -146,12 +155,12 @@
                                 <img src="./../../assets/works/itwasda_polda_kalteng_android/batik_dayak.svg" alt="Batik Dayak" class="absolute w-full h-full object-cover rounded-lg z-0 top-0 left-0 opacity-50">
                             </div>
                             <div class="relative flex w-full p-4 bg-gradient-to-br from-white to-red-50 rounded-lg shadow-md mt-4">
-                                <!-- Use a plain container -->
                                 <div class="w-20 z-10">
+                                    <!-- Use a plain container -->
                                     <div class="w-20 h-20 bg-gradient-to-br from-green-200 to-green-400 rounded-lg"></div>
+                                    <!-- or an Image -->
+                                    <!-- <img src="source" alt="Image source" class="w-20 h-20 object-cover rounded-lg" /> -->
                                 </div>
-                                <!-- or an Image -->
-                                <!-- <img src="source" alt="Image source" class="object-cover" /> -->
 
                                 <div class="flex flex-col w-full ml-4 z-10">
                                     <a class="transition-colors duration-300 ease-in-out 
@@ -189,12 +198,12 @@
                                 <img src="./../../assets/works/itwasda_polda_kalteng_android/batik_dayak.svg" alt="Batik Dayak" class="absolute w-full h-full object-cover rounded-lg z-0 top-0 left-0 opacity-50">
                             </div>
                             <div class="relative flex w-full p-4 bg-gradient-to-br from-white to-red-50 rounded-lg shadow-md mt-4">
-                                <!-- Use a plain container -->
                                 <div class="w-20 z-10">
+                                    <!-- Use a plain container -->
                                     <div class="w-20 h-20 bg-gradient-to-br from-blue-200 to-blue-400 rounded-lg"></div>
+                                    <!-- or an Image -->
+                                    <!-- <img src="source" alt="Image source" class="w-20 h-20 object-cover rounded-lg" /> -->
                                 </div>
-                                <!-- or an Image -->
-                                <!-- <img src="source" alt="Image source" class="object-cover" /> -->
 
                                 <div class="flex flex-col w-full ml-4 z-10">
                                     <a class="transition-colors duration-300 ease-in-out 
@@ -236,6 +245,11 @@
 
                     <!-- List logo -->
                     <img src="./../../assets/works/itwasda_polda_kalteng_android/list-logo.webp" alt="List Logo Polda Kalteng">
+
+                    <!-- Footer -->
+                    <h6 class="text-lg font-semibold text-gray-400 text-center mt-4">
+                        Polda Kalimantan Tengah
+                    </h6>
                 </div>
             </div>
         </div>
