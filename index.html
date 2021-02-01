@@ -37,14 +37,13 @@
     <link rel="manifest" href="/manifest.json">
   </head>
   <body class="bg-gray-100 dark:bg-gray-800">
-    <div class="font-display" id="app"></div>
+    <div class="font-display text-gray-700 dark:text-gray-100" id="app"></div>
     <script type="module" src="/src/main.js"></script>
     <script>
-      // Dark mode toggler
-      if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-          document.documentElement.classList.add('dark')
+      if(localStorage.theme === 'dark') {
+        document.documentElement.classList.add('dark')
       } else {
-          document.documentElement.classList.remove('dark')
+        document.documentElement.classList.remove('dark')
       }
     </script>
   </body>
