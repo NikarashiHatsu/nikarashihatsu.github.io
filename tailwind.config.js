@@ -2,9 +2,13 @@ module.exports = {
   purge: [
     './index.html', './src/**/*.{vue,js,ts,jsx,tsx}'
   ],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'class', // false or 'media' or 'class'
   theme: {
     extend: {},
+    fontFamily: {
+      'display': ['"Exo 2"'],
+      'heading': ['"Roboto Slab"']
+    }
   },
   variants: {
     extend: {},
