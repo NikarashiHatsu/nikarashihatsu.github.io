@@ -1,7 +1,7 @@
 <template>
-    <button class="absolute bottom-0 right-0 flex items-center justify-center w-12 h-12 shadow-xl rounded-full m-4
-                bg-white dark:bg-gray-900
-                border dark:border-transparent" @click="toggleTheme">
+    <button class="fixed bottom-0 right-0 flex items-center justify-center w-12 h-12 shadow-xl rounded-full m-4 z-50
+                    bg-white dark:bg-gray-900
+                    border dark:border-transparent" @click="toggleTheme">
         
         <!-- Dark theme -->
         <span v-if="theme === 'dark'">
