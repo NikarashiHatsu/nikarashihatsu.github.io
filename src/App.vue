@@ -1,19 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <div class="w-screen h-screen flex flex-col items-center justify-center text-center">
+    <h1 class="text-5xl leading-tight mb-4 break-words">
+      My website is under reconstruction.
+    </h1>
+    <h5 class="text-xl">
+      Please wait until further announcement.
+    </h5>
+  </div>
 </template>
 
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
+<script>
+  export default {
+    name: 'App',
+  }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
