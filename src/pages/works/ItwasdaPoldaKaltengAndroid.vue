@@ -35,7 +35,7 @@
                             <!-- Use a plain container -->
                             <div class="relative w-full h-48 bg-gradient-to-br from-red-200 to-red-400 rounded-t-lg z-10"></div>
                             <!-- or an Image -->
-                            <!-- <img src="source" alt="Image source" class="object-cover" /> -->
+                            <!-- <img src="source" alt="Image source" class="object-cover rounded-t-lg z-10" /> -->
                             <a href="javascript:void(0)" class="transition duration-300 ease-in-out text-gray-800 hover:text-red-400">
                                 <h6 class="relative font-semibold text-lg px-4 pt-3 pb-2 line-clamp-1 z-10">
                                     Veniam officia do anim in sit mollit dolor fugiat irure nulla magna.
