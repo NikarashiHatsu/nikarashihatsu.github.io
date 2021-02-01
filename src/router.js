@@ -14,7 +14,7 @@ const routes = [
         component: Works,
         children: [
             {
-                path: 'itwasda_polda_kalteng_android',
+                path: 'itwasda-polda-kalteng-android',
                 component: ItwasdaPoldaKaltengAndroid
             }
         ]
