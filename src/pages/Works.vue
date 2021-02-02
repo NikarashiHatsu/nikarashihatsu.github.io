@@ -11,7 +11,9 @@
                 :slug="work.slug">
             </WorkCard>
         </div>
-        <router-view></router-view>
+        <div v-else class="px-4">
+            <router-view></router-view>
+        </div>
     </div>
 </template>
 

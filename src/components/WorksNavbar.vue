@@ -1,7 +1,7 @@
 <template>
     <header class="shadow-lg py-5
                     bg-white dark:bg-gray-900">
-        <div class="max-w-7xl mx-auto">
+        <div class="max-w-7xl mx-auto px-4">
             <router-link class="flex items-center" to="/works">
                 <span>
                     <svg class="w-4 h-4 text-gray-700 dark:text-white fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
