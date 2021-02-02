@@ -3,7 +3,7 @@
                 bg-white dark:bg-gray-900">
         <div class="border-b
                     border-gray-300 dark:border-gray-700">
-            <img width="450" height="450" class="w-full h-full object-cover rounded-t-lg" :src="imageDir" alt="Itwasda Polda Kalteng Android">
+            <img width="450" height="450" class="w-full h-full object-cover rounded-t-lg" :src="image" alt="Itwasda Polda Kalteng Android">
         </div>
         <div class="px-4 py-3">
             <router-link class="transition duration-300 ease-in-out hover:text-blue-400" :to="`works/${this.slug}`">
@@ -46,10 +46,5 @@
                 required: true
             }
         },
-        data() {
-            return {
-                imageDir: `./src/assets/works/thumbnails/${this.image}`
-            }
-        }
     }
 </script>
