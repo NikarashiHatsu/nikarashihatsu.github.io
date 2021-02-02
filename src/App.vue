@@ -4,10 +4,10 @@
       <Navbar />
       <div class="max-w-7xl mx-auto p-6">
         <div class="grid grid-cols-12 grid-flow-row gap-6">
-          <div class="col-span-9">
+          <div class="col-span-12 md:col-span-8 lg:col-span-9">
             <router-view></router-view>
           </div>
-          <div class="col-span-3">
+          <div class="col-span-12 md:col-span-4 lg:col-span-3">
             <Profile />
           </div>
         </div>

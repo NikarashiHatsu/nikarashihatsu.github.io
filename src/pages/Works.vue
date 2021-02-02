@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div v-if="getRoute === '/works'" class="grid grid-cols-3 grid-flow-row gap-6">
+        <div v-if="getRoute === '/works'" class="grid sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 grid-flow-row gap-6">
             <WorkCard 
                 v-for="(work, index) in workData" 
                 :key="index"
