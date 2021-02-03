@@ -41,7 +41,7 @@
       isWorksPath() {
         let path = router.currentRoute.value.path
         
-        if (path === '/' || path === '/works') {
+        if (path === '/' || path === '/works' || path.match('/notes/')) {
           return false
         }
 
