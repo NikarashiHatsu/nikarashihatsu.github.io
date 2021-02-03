@@ -2,7 +2,9 @@
     <header class="flex flex-col items-center shadow-lg pt-4
                     bg-white dark:bg-gray-900">
         <img width="60" height="60" src="/logo.svg" alt="A Developer's Note Logo" />
-        <h6 class="uppercase text-red-600 text-lg font-semibold tracking-wide my-4">A Developer's Note</h6>
+        <h6 class="uppercase text-red-600 dark:text-red-400 text-lg font-semibold tracking-wide my-4">
+            A Developer's Note
+        </h6>
         <hr class="w-full border-t
                     border-gray-200 dark:border-gray-800" />
 
