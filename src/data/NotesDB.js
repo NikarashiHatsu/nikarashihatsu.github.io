@@ -1,6 +1,6 @@
-import notesImages from './notes_images'
+import notesImages from './NoteImages'
 
-let notes = [
+let NotesDB = [
     {
         thumbnail: notesImages.artOfRefactoringUI,
         slug: 'art-of-refactoring-ui-by-steve-schoger-and-adam-wathan',
@@ -11,4 +11,4 @@ let notes = [
     }
 ]
 
-export default notes
+export default NotesDB

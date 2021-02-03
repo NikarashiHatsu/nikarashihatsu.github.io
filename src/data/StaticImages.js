@@ -1,7 +1,7 @@
 import itwasdaPoldaKaltengAndroid from './../assets/works/thumbnails/itwasda-polda-kalteng-android.webp'
 
 let staticImages = {
-    itswasdaPoldaKaltengAndroid: itwasdaPoldaKaltengAndroid
+    itwasdaPoldaKaltengAndroid: itwasdaPoldaKaltengAndroid
 }
 
 export default staticImages

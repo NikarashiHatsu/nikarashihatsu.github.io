@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import notesData from './../data/notesdata'
+    import NotesDB from './../data/NotesDB'
     import router from './../router'
 
     export default {
@@ -14,9 +14,9 @@
             let slug = router.currentRoute.value.params.slug
             let note = undefined
             
-            for(let i = 0; i < notesData.length; i++) {
-                if(notesData[i].slug === slug) {
-                    note = notesData[i]
+            for(let i = 0; i < NotesDB.length; i++) {
+                if(NotesDB[i].slug === slug) {
+                    note = NotesDB[i]
                 }
             }
 
