@@ -14,6 +14,15 @@ let WorksDB = [
     },
     {
         slug: undefined,
+        url: 'https://play.google.com/store/apps/details?id=com.bengkelweb.pnpsi',
+        thumbnail: staticImages.pnpsi,
+        title: 'Padepokan Pencak Silat TMII',
+        overview: 'A hotel and convention booking mobile application for Padepokan Pencak Silat Taman Mini Indonesia Indah.',
+        component: undefined,
+        featured: false,
+    },
+    {
+        slug: undefined,
         url: 'https://play.google.com/store/apps/details?id=com.bengkelweb.personalcare',
         thumbnail: staticImages.personnalCare,
         title: 'Personnal Care Polda Aceh',
