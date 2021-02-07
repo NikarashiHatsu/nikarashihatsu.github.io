@@ -20,7 +20,7 @@ const routes = [
         component: WorkDetail
     },
     {
-        path: '/notes',
+        path: '/notes/:slug',
         component: NotesDetail
     },
     {
