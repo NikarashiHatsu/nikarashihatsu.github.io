@@ -13,6 +13,15 @@ let WorksDB = [
         featured: true,
     },
     {
+        slug: undefined,
+        url: 'https://play.google.com/store/apps/details?id=com.bengkelweb.personalcare',
+        thumbnail: staticImages.personnalCare,
+        title: 'Personnal Care Polda Aceh',
+        overview: 'A mobile application designed for Personnels in Polda Aceh',
+        component: undefined,
+        featured: false,
+    },
+    {
         slug: 'itwasda-polda-kalteng-android',
         url: undefined,
         thumbnail: staticImages.itwasdaPoldaKaltengAndroid,
