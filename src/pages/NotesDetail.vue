@@ -43,7 +43,7 @@
             }
 
             if(component === undefined) {
-                router.replace('/404')
+                router.replace('/not-found')
             }
 
             this.component = component
