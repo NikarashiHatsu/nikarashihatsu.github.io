@@ -2,19 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-  </url><url>
-    <loc>/articles/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>/kontak/</loc>
   </url><url>
-    <loc>/projects/math-brain-trainer/</loc>
-  </url><url>
-    <loc>/projects/</loc>
-  </url><url>
-    <loc>/articles/article/</loc>
+    <loc>/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
