@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on </title>
+    <link>/articles/</link>
+    <description>Recent content in Articles on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise Surprise</title>
+      <link>/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/article/</guid>
+      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
+    </item>
+    
+  </channel>
+</rss>
