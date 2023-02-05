@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shiroyuki.dev/id/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/archive/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/id/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/blog/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +38,30 @@
                 href="https://shiroyuki.dev/id/categories/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/id/commission/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/commission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/commission/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/id/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/contact/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/id/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +72,18 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/id/search/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/id/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/portfolio/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/id/</loc>
