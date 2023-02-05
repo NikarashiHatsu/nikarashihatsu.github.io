@@ -1,35 +1,26 @@
-baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: https://shiroyuki.dev
 title: charlola.mode
 paginate: 5
 theme: charlolamode
 
-
-
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
-        - name: Articles
-          url: /articles/
-          weight: 20
-        - name: Projects
-          url: /projects/
-          weight: 15
-
-     # - name: Categories
-        #   url: /categories/
-        #   weight: 10
-        # - name: new Tab
-        #   url: /newtab/
-        #   weight: defines order of tabs
-   
-
+        - name: Portfolio
+          url: /portfolio/
+          weight: 2
+        - name: Blog
+          url: https://blog.shiroyuki.dev
+          weight: 3
+        - name: Komisi
+          url: https://comission.shiroyuki.dev
+          weight: 4
+        - name: Kontak
+          url: /kontak/
+          weight: 5
 
 params:
-    author: Author's Name
-
-
+    hideFooter: true
+    author: Aghits Nidallah
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
@@ -40,18 +31,15 @@ params:
     ShowToc: true
 
     profileMode:
-        # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Aghits Nidallah
         description: |
+          Halo, nama saya Aghits Nidallah 👋.
 
-          Hello, I am Joe.
-           I am a software developer. 
-        
-
-          This is a minimalistic theme template for websites.
+          Saya seorang pengembang web, mahasiswa, dan manusia yang hidup
+          dengan menikmati secangkir kopi 24/7 ☕️.
         imageUrl: "/images/profile.png"
-        imageTitle: my image
+        imageTitle: Foto saya
         # imageWidth: 120
         # imageHeight: 120
         buttons:
@@ -61,31 +49,25 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+        - name: facebook
+          url: https://www.facebook.com/irlnidallah/
+        - name: twitter
+          url: https://twitter.com/irlnidallah
+        - name: instagram
+          url: https://instagram.com/irlnidallah
+        - name: youtube
+          url: https://www.youtube.com/@aghitsnidallah7953/
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/NikarashiHatsu"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/aghits-nidallah-9b6728221/"
 
-      # add more social icons. find more in svg.html file
-      # - name: youtube
-      #   url: yoururl
-      # - name: twitter
-      #   url: yoururl
-      # - name: facebook
-      #   url: yoururl
-
-
-    # change favicon in images folder (icon for web tab)
     assets:
           favicon: "/images/favicon.ico"
           favicon16x16: "/images/favicon-16x16.png"
           favicon32x32: "/images/favicon-32x32.png"
           apple_touch_icon: "/images/apple-touch-icon.png"
           safari_pinned_tab: "/images/apple-touch-icon.png"
-
-
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -94,4 +76,3 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
-

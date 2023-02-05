@@ -102,7 +102,7 @@
         {{- $currentPage := . }}
         <ul id="menu">
             <li>
-                <a href="/" title="Home"><span>Home</span></a>
+                <a href="/" title="Beranda"><span>Beranda</span></a>
             </li>
             {{- range .Site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
