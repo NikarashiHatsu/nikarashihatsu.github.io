@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shiroyuki.dev/portfolio/android/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/portfolio/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/portfolio/android/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/archive/</loc>
     <xhtml:link
                 rel="alternate"
@@ -108,6 +120,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/portfolio/ui-ux/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/portfolio/ui-ux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/portfolio/ui-ux/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/portfolio/website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/portfolio/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/portfolio/website/"
                 />
   </url>
 </urlset>
