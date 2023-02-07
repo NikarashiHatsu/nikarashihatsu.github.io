@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shiroyuki.dev/tags/blog/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/tags/blog/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/blog/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/blog/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/lifestyle/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/tags/lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/tags/lifestyle/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/blog/macbook-fashionable-or-actually-impressive/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/blog/macbook-fashionable-or-actually-impressive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/blog/macbook-fashionable-or-actually-impressive/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/tech/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/tags/tech/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/portfolio/website/4reality/</loc>
     <lastmod>2023-02-06T12:44:20+07:00</lastmod>
     <xhtml:link
@@ -39,32 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/portfolio/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/</loc>
-    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/</loc>
-    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/tags/website/</loc>
@@ -115,30 +180,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/archive/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/id/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/blog/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/id/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/categories/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/commission/</loc>
