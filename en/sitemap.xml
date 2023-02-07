@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shiroyuki.dev/article/</loc>
+    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/id/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/article/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/tags/blog/</loc>
     <lastmod>2023-02-07T13:40:40+07:00</lastmod>
     <xhtml:link
@@ -13,19 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/tags/blog/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/blog/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/id/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/blog/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/tags/lifestyle/</loc>
@@ -41,17 +41,17 @@
                 href="https://shiroyuki.dev/tags/lifestyle/"
                 />
   </url><url>
-    <loc>https://shiroyuki.dev/blog/macbook-fashionable-or-actually-impressive/</loc>
+    <loc>https://shiroyuki.dev/article/macbook-fashionable-or-actually-impressive/</loc>
     <lastmod>2023-02-07T13:40:40+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://shiroyuki.dev/id/blog/macbook-fashionable-or-actually-impressive/"
+                href="https://shiroyuki.dev/id/article/macbook-fashionable-or-actually-impressive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shiroyuki.dev/blog/macbook-fashionable-or-actually-impressive/"
+                href="https://shiroyuki.dev/article/macbook-fashionable-or-actually-impressive/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/</loc>
