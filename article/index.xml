@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Article on shiroyuki.dev</title>
+    <title>Artikel on shiroyuki.dev</title>
     <link>https://shiroyuki.dev/article/</link>
-    <description>Recent content in Article on shiroyuki.dev</description>
+    <description>Recent content in Artikel on shiroyuki.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
     <lastBuildDate>Tue, 07 Feb 2023 13:40:40 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MacBook, Fashionable or Actually Impressive?</title>
+      <title>MacBook, Gaya Doang atau Emang Gahar?</title>
       <link>https://shiroyuki.dev/article/macbook-fashionable-or-actually-impressive/</link>
       <pubDate>Tue, 07 Feb 2023 13:40:40 +0700</pubDate>
       
       <guid>https://shiroyuki.dev/article/macbook-fashionable-or-actually-impressive/</guid>
-      <description>Why did you buy an expensive laptop? After all, you only use it for coding.</description>
+      <description>Eh lu ngapain sih beli laptop mahal? Padahal kan cuma buat ngoding doang.</description>
     </item>
     
   </channel>
