@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Tue, 07 Feb 2023 13:40:40 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 17:46:07 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal Testing Automation Pyramid</title>
+      <link>https://shiroyuki.dev/article/testing-automation-pyramid/</link>
+      <pubDate>Fri, 10 Feb 2023 17:46:07 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/article/testing-automation-pyramid/</guid>
+      <description>Sebuah skema yang harus dikenal dan diadopsi oleh organisasi pengembang profesional.</description>
+    </item>
+    
     <item>
       <title>MacBook, Gaya Doang atau Emang Gahar?</title>
       <link>https://shiroyuki.dev/article/macbook-fashionable-or-actually-impressive/</link>

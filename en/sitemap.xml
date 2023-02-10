@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shiroyuki.dev/en/article/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/blog/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -26,6 +26,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/tags/blog/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/article/testing-automation-pyramid/</loc>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/testing-automation-pyramid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/testing-automation-pyramid/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/</loc>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/</loc>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/tech/</loc>
+    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/tech/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/lifestyle/</loc>
@@ -52,45 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/article/macbook-fashionable-or-actually-impressive/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/tags/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/tags/tech/</loc>
-    <lastmod>2023-02-07T13:40:40+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/tech/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/portfolio/website/4reality/</loc>
