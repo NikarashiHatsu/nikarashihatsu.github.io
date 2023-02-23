@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shiroyuki.dev/en/article/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -13,6 +13,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/article/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/linux/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/linux/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/tips/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/tips/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/blog/</loc>
@@ -39,32 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/article/testing-automation-pyramid/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/tags/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/tech/</loc>
@@ -193,6 +232,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/archive/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/college/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/college/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/college/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/commission/</loc>

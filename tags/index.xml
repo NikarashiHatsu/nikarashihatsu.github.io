@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 17:46:07 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 12:00:20 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://shiroyuki.dev/tags/linux/</link>
+      <pubDate>Thu, 23 Feb 2023 12:00:20 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://shiroyuki.dev/tags/tips/</link>
+      <pubDate>Thu, 23 Feb 2023 12:00:20 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/tips/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://shiroyuki.dev/tags/blog/</link>
@@ -50,6 +68,33 @@
       <pubDate>Mon, 06 Feb 2023 12:44:20 +0700</pubDate>
       
       <guid>https://shiroyuki.dev/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laravel</title>
+      <link>https://shiroyuki.dev/tags/laravel/</link>
+      <pubDate>Thu, 14 Apr 2022 04:35:09 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/laravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kuliah</title>
+      <link>https://shiroyuki.dev/tags/kuliah/</link>
+      <pubDate>Sun, 10 Apr 2022 04:31:57 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/kuliah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistem informasi</title>
+      <link>https://shiroyuki.dev/tags/sistem-informasi/</link>
+      <pubDate>Sun, 10 Apr 2022 04:31:57 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/sistem-informasi/</guid>
       <description></description>
     </item>
     

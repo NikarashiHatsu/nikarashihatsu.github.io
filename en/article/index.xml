@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 17:46:07 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/en/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 12:00:20 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/en/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Mengatasi Could Not Resolve Hostname github.com Pada Linux</title>
+      <link>https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</link>
+      <pubDate>Thu, 23 Feb 2023 12:00:20 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</guid>
+      <description>This situation began when I planned to do a git pull on a project in CentOS 7 server. However, unlike my previous experience, the response that appeared was as follows:
+1 2 3 ssh: Could not resolve hostname github.com: Temporary failure in name resolution fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists. It was very surprising, because previously I could always do the pull without any problems.</description>
+    </item>
+    
     <item>
       <title>Getting to Know the Testing Automation Pyramid</title>
       <link>https://shiroyuki.dev/en/article/testing-automation-pyramid/</link>

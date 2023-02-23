@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shiroyuki.dev/article/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,71 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/article/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/linux/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/linux/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/tips/</loc>
+    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/tips/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/tags/blog/</loc>
@@ -39,32 +104,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/article/testing-automation-pyramid/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/</loc>
-    <lastmod>2023-02-10T17:46:07+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/tags/tech/</loc>
@@ -170,6 +209,34 @@
                 hreflang="id"
                 href="https://shiroyuki.dev/portfolio/website/"
                 />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/laravel/</loc>
+    <lastmod>2022-04-14T04:35:09+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/article/laravel-9-8-diluncurkan/</loc>
+    <lastmod>2022-04-14T04:35:09+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/college/konsep-dasar-sistem-informasi-dan-sistem-informasi/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/kuliah/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/college/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/college/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/college/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/sistem-informasi/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/portfolio/android/</loc>
     <xhtml:link
