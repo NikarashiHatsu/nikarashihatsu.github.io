@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Thu, 14 Apr 2022 04:35:09 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Mar 2023 00:22:00 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Mengimplementasikan WhatsApp Text Formatting &#43; Unicode Rendering Pada PHP (Part 3 - Akhir)</title>
+      <link>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-3/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-3/</guid>
+      <description>Mengimplementasikan Bold, Italic, Underline, Strikethrough, Monospace, dan merender Emoji berdasarkan pesan WhatsApp pada PHP</description>
+    </item>
+    
+    <item>
+      <title>Cara Mengimplementasikan WhatsApp Text Formatting &#43; Unicode Rendering Pada PHP (Part 2)</title>
+      <link>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-2/</link>
+      <pubDate>Wed, 15 Mar 2023 23:08:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-2/</guid>
+      <description>Mengimplementasikan Bold, Italic, Underline, Strikethrough, Monospace, dan merender Emoji berdasarkan pesan WhatsApp pada PHP</description>
+    </item>
+    
+    <item>
+      <title>Cara Mengimplementasikan WhatsApp Text Formatting &#43; Unicode Rendering Pada PHP (Part 1)</title>
+      <link>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-1/</link>
+      <pubDate>Wed, 15 Mar 2023 19:39:10 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-1/</guid>
+      <description>Mengimplementasikan Bold, Italic, Underline, Strikethrough, Monospace, dan merender Emoji berdasarkan pesan WhatsApp pada PHP</description>
+    </item>
+    
     <item>
       <title>Laravel 9.8 diluncurkan! Pembaruan helper &#34;old&#34;, metode &#34;set&#34; pada Factory, dan lainnya!</title>
       <link>https://shiroyuki.dev/article/laravel-9-8-diluncurkan/</link>

@@ -7,9 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Thu, 23 Feb 2023 12:00:20 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Mar 2023 00:22:00 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cara Mengatasi Could Not Resolve Hostname github.com Pada Linux</title>
+      <title>How to Implement WhatsApp Text Formatting &#43; Unicode Rendering in PHP (Part 3)</title>
+      <link>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-3/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-3/</guid>
+      <description>Implement Bold, Italic, Underline, Strikethrough, Monospace, and render Unicode based on WhatsApp messages in PHP</description>
+    </item>
+    
+    <item>
+      <title>How to Implement WhatsApp Text Formatting &#43; Unicode Rendering in PHP (Part 2)</title>
+      <link>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-2/</link>
+      <pubDate>Wed, 15 Mar 2023 23:08:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-2/</guid>
+      <description>Implement Bold, Italic, Underline, Strikethrough, Monospace, and render Unicode based on WhatsApp messages in PHP</description>
+    </item>
+    
+    <item>
+      <title>How to Implement WhatsApp Text Formatting &#43; Unicode Rendering in PHP (Part 1)</title>
+      <link>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-1/</link>
+      <pubDate>Wed, 15 Mar 2023 19:39:10 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-1/</guid>
+      <description>Implement Bold, Italic, Underline, Strikethrough, Monospace, and render Unicode based on WhatsApp messages in PHP</description>
+    </item>
+    
+    <item>
+      <title>How to fix Could Not Resolve Hostname github.com on Linux</title>
       <link>https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</link>
       <pubDate>Thu, 23 Feb 2023 12:00:20 +0700</pubDate>
       

@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aghits Nidallah - shiroyuki.dev &amp;copy;2023</copyright>
-    <lastBuildDate>Thu, 23 Feb 2023 12:00:20 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Mar 2023 00:22:00 +0700</lastBuildDate><atom:link href="https://shiroyuki.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>laravel</title>
+      <link>https://shiroyuki.dev/tags/laravel/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/laravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://shiroyuki.dev/tags/php/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regex</title>
+      <link>https://shiroyuki.dev/tags/regex/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://shiroyuki.dev/tags/tutorial/</link>
+      <pubDate>Thu, 16 Mar 2023 00:22:00 +0700</pubDate>
+      
+      <guid>https://shiroyuki.dev/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>https://shiroyuki.dev/tags/linux/</link>
@@ -68,15 +104,6 @@
       <pubDate>Mon, 06 Feb 2023 12:44:20 +0700</pubDate>
       
       <guid>https://shiroyuki.dev/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>laravel</title>
-      <link>https://shiroyuki.dev/tags/laravel/</link>
-      <pubDate>Thu, 14 Apr 2022 04:35:09 +0700</pubDate>
-      
-      <guid>https://shiroyuki.dev/tags/laravel/</guid>
       <description></description>
     </item>
     

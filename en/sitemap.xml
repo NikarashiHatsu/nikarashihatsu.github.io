@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shiroyuki.dev/en/article/</loc>
-    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -13,6 +13,123 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/article/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-3/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-3/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/laravel/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/laravel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/laravel/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/php/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/php/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/regex/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/regex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/regex/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/tutorial/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/tutorial/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-2/</loc>
+    <lastmod>2023-03-15T23:08:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-2/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-1/</loc>
+    <lastmod>2023-03-15T19:39:10+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/whatsapp-text-formatting-pada-php-part-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-1/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/article/cara-mengatasi-could-not-resolve-hostname-github-com-pada-linux/</loc>
@@ -39,32 +156,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/tags/linux/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/</loc>
-    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/tags/</loc>
-    <lastmod>2023-02-23T12:00:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/tips/</loc>
