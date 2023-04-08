@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shiroyuki.dev/privacy-policies/hawada/</loc>
-    <lastmod>2023-03-17T21:56:21+07:00</lastmod>
+    <loc>https://shiroyuki.dev/tags/j-pop/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
   </url><url>
-    <loc>https://shiroyuki.dev/privacy-policies/</loc>
-    <lastmod>2023-03-17T21:56:21+07:00</lastmod>
+    <loc>https://shiroyuki.dev/tags/lyrics/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/lyrics/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/official-hige-dandism/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/lyrics/official-hige-dandism-subtitle/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/</loc>
-    <lastmod>2023-03-17T21:56:21+07:00</lastmod>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +29,25 @@
                 hreflang="id"
                 href="https://shiroyuki.dev/"
                 />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/privacy-policies/hawada/</loc>
+    <lastmod>2023-03-17T21:56:21+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/privacy-policies/</loc>
+    <lastmod>2023-03-17T21:56:21+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/article/</loc>
     <lastmod>2023-03-16T00:22:00+07:00</lastmod>
@@ -84,19 +112,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/tags/regex/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/</loc>
-    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/tags/tutorial/</loc>
