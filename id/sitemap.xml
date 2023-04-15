@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shiroyuki.dev/tags/j-pop/</loc>
-    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/lyrics/</loc>
-    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/lyrics/</loc>
-    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/official-hige-dandism/</loc>
-    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/lyrics/official-hige-dandism-subtitle/</loc>
-    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
-  </url><url>
     <loc>https://shiroyuki.dev/</loc>
     <lastmod>2023-04-08T23:35:16+07:00</lastmod>
     <xhtml:link
@@ -29,6 +14,9 @@
                 hreflang="id"
                 href="https://shiroyuki.dev/"
                 />
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/j-pop/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/tags/</loc>
     <lastmod>2023-04-08T23:35:16+07:00</lastmod>
@@ -43,11 +31,43 @@
                 href="https://shiroyuki.dev/tags/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/tags/lyrics/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/official-hige-dandism/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/lyrics/official-hige-dandism-subtitle/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/lyrics/</loc>
+    <lastmod>2023-04-08T23:35:16+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/lyrics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/lyrics/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/privacy-policies/hawada/</loc>
     <lastmod>2023-03-17T21:56:21+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/privacy-policies/</loc>
     <lastmod>2023-03-17T21:56:21+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/privacy-policies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/privacy-policies/"
+                />
   </url><url>
     <loc>https://shiroyuki.dev/article/</loc>
     <lastmod>2023-03-16T00:22:00+07:00</lastmod>
@@ -296,19 +316,6 @@
                 href="https://shiroyuki.dev/portfolio/"
                 />
   </url><url>
-    <loc>https://shiroyuki.dev/tags/website/</loc>
-    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/website/"
-                />
-  </url><url>
     <loc>https://shiroyuki.dev/portfolio/website/</loc>
     <lastmod>2023-02-06T12:44:20+07:00</lastmod>
     <xhtml:link
@@ -322,14 +329,21 @@
                 href="https://shiroyuki.dev/portfolio/website/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/tags/website/</loc>
+    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/website/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/article/laravel-9-8-diluncurkan/</loc>
     <lastmod>2022-04-14T04:35:09+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/college/konsep-dasar-sistem-informasi-dan-sistem-informasi/</loc>
-    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
-  </url><url>
-    <loc>https://shiroyuki.dev/tags/kuliah/</loc>
-    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/college/</loc>
     <lastmod>2022-04-10T04:31:57+07:00</lastmod>
@@ -344,20 +358,14 @@
                 href="https://shiroyuki.dev/college/"
                 />
   </url><url>
-    <loc>https://shiroyuki.dev/tags/sistem-informasi/</loc>
+    <loc>https://shiroyuki.dev/college/konsep-dasar-sistem-informasi-dan-sistem-informasi/</loc>
     <lastmod>2022-04-10T04:31:57+07:00</lastmod>
   </url><url>
-    <loc>https://shiroyuki.dev/portfolio/android/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/portfolio/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/portfolio/android/"
-                />
+    <loc>https://shiroyuki.dev/tags/kuliah/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
+  </url><url>
+    <loc>https://shiroyuki.dev/tags/sistem-informasi/</loc>
+    <lastmod>2022-04-10T04:31:57+07:00</lastmod>
   </url><url>
     <loc>https://shiroyuki.dev/archive/</loc>
     <xhtml:link
@@ -369,18 +377,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/archive/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/commission/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/commission/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/commission/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/contact/</loc>
@@ -395,6 +391,18 @@
                 href="https://shiroyuki.dev/contact/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/commission/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/commission/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/commission/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -405,6 +413,18 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://shiroyuki.dev/search/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/portfolio/android/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/portfolio/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/portfolio/android/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/portfolio/ui-ux/</loc>

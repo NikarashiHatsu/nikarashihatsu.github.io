@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shiroyuki.dev/en/article/</loc>
+    <loc>https://shiroyuki.dev/en/</loc>
     <lastmod>2023-03-16T00:22:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://shiroyuki.dev/article/"
+                href="https://shiroyuki.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shiroyuki.dev/en/article/"
+                href="https://shiroyuki.dev/en/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/article/whatsapp-text-formatting-pada-php-part-3/</loc>
@@ -41,6 +54,19 @@
                 href="https://shiroyuki.dev/en/tags/laravel/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/en/article/</loc>
+    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/article/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/en/tags/php/</loc>
     <lastmod>2023-03-16T00:22:00+07:00</lastmod>
     <xhtml:link
@@ -65,32 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/tags/regex/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/</loc>
-    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/"
-                />
-  </url><url>
-    <loc>https://shiroyuki.dev/en/tags/</loc>
-    <lastmod>2023-03-16T00:22:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/tutorial/</loc>
@@ -249,19 +249,6 @@
                 href="https://shiroyuki.dev/en/portfolio/website/4reality/"
                 />
   </url><url>
-    <loc>https://shiroyuki.dev/en/tags/portfolio/</loc>
-    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://shiroyuki.dev/tags/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shiroyuki.dev/en/tags/portfolio/"
-                />
-  </url><url>
     <loc>https://shiroyuki.dev/en/portfolio/</loc>
     <lastmod>2023-02-06T12:44:20+07:00</lastmod>
     <xhtml:link
@@ -273,6 +260,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://shiroyuki.dev/en/portfolio/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/tags/portfolio/</loc>
+    <lastmod>2023-02-06T12:44:20+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/tags/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/tags/portfolio/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/tags/website/</loc>
@@ -325,6 +325,18 @@
                 href="https://shiroyuki.dev/en/archive/"
                 />
   </url><url>
+    <loc>https://shiroyuki.dev/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/contact/"
+                />
+  </url><url>
     <loc>https://shiroyuki.dev/en/college/</loc>
     <xhtml:link
                 rel="alternate"
@@ -349,16 +361,28 @@
                 href="https://shiroyuki.dev/en/commission/"
                 />
   </url><url>
-    <loc>https://shiroyuki.dev/en/contact/</loc>
+    <loc>https://shiroyuki.dev/en/lyrics/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://shiroyuki.dev/contact/"
+                href="https://shiroyuki.dev/lyrics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shiroyuki.dev/en/contact/"
+                href="https://shiroyuki.dev/en/lyrics/"
+                />
+  </url><url>
+    <loc>https://shiroyuki.dev/en/privacy-policies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://shiroyuki.dev/privacy-policies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shiroyuki.dev/en/privacy-policies/"
                 />
   </url><url>
     <loc>https://shiroyuki.dev/en/search/</loc>
