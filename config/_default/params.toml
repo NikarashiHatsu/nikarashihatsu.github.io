@@ -20,9 +20,9 @@ disableImageOptimization = false
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -115,27 +115,27 @@ disableImageOptimization = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyADnNR4R3w3SJUr_FmnV01caif2fizhqxs"
+  authDomain = "shiroyuki-dev.firebaseapp.com"
+  projectId = "shiroyuki-dev"
+  storageBucket = "shiroyuki-dev.appspot.com"
+  messagingSenderId = "17647753783"
+  appId = "1:17647753783:web:d80ca4d3023e73b2bbbdb2"
+  measurementId = "G-CRCH9872R4"
 
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "shiroyukidev"
+  globalWidget = true
+  globalWidgetMessage = "Support my work by buying me a cup of coffee."
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
+  google = "G-CRCH9872R4"
   # bing = ""
   # pinterest = ""
   # yandex = ""
