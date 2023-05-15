@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Black.ttf');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-BlackItalic.ttf');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Firacode;
+    src: url('/fonts/firacode/FiraCode-Retina.ttf');
+    font-weight: 400;
+}
+
+html {
+    font-family: Lato;
+}
+
+code {
+    font-family: Firacode;
+    font-size: 0.9em;
+}
