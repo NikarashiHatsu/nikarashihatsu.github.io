@@ -17,22 +17,49 @@
   weight = 10
 
 [[main]]
+  pre = "globe-hemisphere-east"
+  name = "Website"
+  pageRef = "website"
+  parent = "Portfolio"
+  weight = 11
+  url = "/portfolio/website"
+
+[[main]]
+  pre = "android-logo"
+  name = "Android"
+  pageRef = "android"
+  parent = "Portfolio"
+  weight = 12
+  url = "/portfolio/android"
+
+[[main]]
+  pre = "sidebar"
+  name = "UI/UX"
+  pageRef = "ui-ux"
+  parent = "Portfolio"
+  weight = 13
+  url = "/portfolio/ui-ux"
+
+[[main]]
   pre = "newspaper-clipping"
   name = "Artikel"
   pageRef = "artikel"
   weight = 20
+  url = "/artikel"
 
 [[main]]
   pre = "images-square"
   name = "Galeri"
   pageRef = "galeri"
   weight = 20
+  url = "/galeri"
 
 [[main]]
   pre = "option"
   name = "Lainnya"
   pageRef = "lainnya"
   weight = 20
+  url = "/lainnya"
 
 [[main]]
   pre = "graduation-cap"
@@ -40,6 +67,7 @@
   parent = "Lainnya"
   pageRef = "kuliah"
   weight = 20
+  url = "/lainnya/kuliah"
 
 [[main]]
   pre = "music-notes"
@@ -47,6 +75,7 @@
   parent = "Lainnya"
   pageRef = "lirik-lagu"
   weight = 20
+  url = "/lainnya/lirik-lagu"
 
 [[main]]
   identifier = "github"

@@ -15,11 +15,11 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Aghits Nidallah"
-  image = "img/profile.jpg"
+  image = "img/authors/aghitsnidallah.jpg"
   headline = """Halo, nama saya Aghits Nidallah 👋.
 
   Saya seorang `{full-stack,mobile}` developer, mahasiswa, dan `{manusia,robot}`
-  
+
   yang hidup dengan menikmati kopi 24/7 ☕️."""
   bio = "A little bit about you"
   links = [
