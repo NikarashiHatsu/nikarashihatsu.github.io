@@ -10,19 +10,72 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  pre = "briefcase"
+  name = "Portfolio"
+  pageRef = "portfolio"
+  weight = 10
+
+[[main]]
+  pre = "newspaper-clipping"
+  name = "Artikel"
+  pageRef = "artikel"
+  weight = 20
+
+[[main]]
+  pre = "images-square"
+  name = "Galeri"
+  pageRef = "galeri"
+  weight = 20
+
+[[main]]
+  pre = "option"
+  name = "Lainnya"
+  pageRef = "lainnya"
+  weight = 20
+
+[[main]]
+  pre = "graduation-cap"
+  name = "Kuliah"
+  parent = "Lainnya"
+  pageRef = "kuliah"
+  weight = 20
+
+[[main]]
+  pre = "music-notes"
+  name = "Lirik Lagu"
+  parent = "Lainnya"
+  pageRef = "lirik-lagu"
+  weight = 20
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/NikarashiHatsu"
+  weight = 25
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/irlnidallah"
+  weight = 30
 
 #[[main]]
-#  name = "Parent"
+#  name = "Artikel"
+#  parent = "In this Page"
+#  pageRef = "artikel"
 #  weight = 20
 
 #[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
+#  name = "Lirik"
+#  parent = "In this Page"
+#  pageRef = "lirik"
+#  weight = 20
+
+#[[main]]
+#  name = "Lirik"
+#  parent = "In this Page"
+#  pageRef = "lirik"
 #  weight = 20
 
 #[[main]]

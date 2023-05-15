@@ -5,21 +5,31 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
-# logo = "img/logo.png"
+title = "A Developer's Note"
+logo = "img/logo.png"
 # secondaryLogo = "img/secondary-logo.png"
 # description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Aghits Nidallah - shiroyuki.dev ©2023"
 
 dateFormat = "2 January 2006"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[author]
+  name = "Aghits Nidallah"
+  image = "img/profile.jpg"
+  headline = """Halo, nama saya Aghits Nidallah 👋.
+
+  Saya seorang `{full-stack,mobile}` developer, mahasiswa, dan `{manusia,robot}`
+  
+  yang hidup dengan menikmati kopi 24/7 ☕️."""
+  bio = "A little bit about you"
+  links = [
+    { facebook = "https://facebook.com/irlnidallah" },
+    { twitter = "https://twitter.com/irlnidallah" },
+    { instagram = "https://instagram.com/irlnidallah" },
+    { youtube = "https://www.youtube.com/@aghitsnidallah7953/" },
+    { github = "https://github.com/NikarashiHatsu" },
+    { linkedin = "https://www.linkedin.com/in/aghits-nidallah-9b6728221/" },
+    { email = "mailto:yourlovelydev@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -28,18 +38,14 @@ dateFormat = "2 January 2006"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -57,8 +63,6 @@ dateFormat = "2 January 2006"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-#     { twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+  ]
