@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shiroyuki.dev/sitemap.xml
