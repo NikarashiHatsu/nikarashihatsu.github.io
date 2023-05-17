@@ -51,10 +51,3 @@ You can choose to disable cookies through your individual browser options. To kn
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
 Wayan Polairud Presisi App does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
-
-## Online Privacy Policy
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Wayan Polairud Presisi App. This policy is not applicable to any information collected offline or via channels other than this website.
-
-## Consent
-By using our application and website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
-
