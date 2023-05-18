@@ -1,6 +1,6 @@
 ---
 title: "Pengumpulan Data"
-date: 2022-07-01T20:21:41+07:00
+date: 2022-07-01T20:36:20+07:00
 tags: ["article", "kuliah"]
 draft: false
 showAuthor: true
