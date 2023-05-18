@@ -322,7 +322,7 @@ Perlu diingat, penggunaan `Route Resource` atau `Route Presenter` mewajibkan tem
 | `remove` | - | Halaman konfirmasi penghapusan data |
 | `delete` | Menghapus data | Menghapus data |
 
-### Pemanggilan *Route*
+## Pemanggilan *Route*
 Entah kenapa CI4 tidak dapat mengimplementasikan `named route` seperti halnya Laravel. Padahal fungsi ini sangat membantu, karena, jika suatu saat ada suatu perubahan pada rute, teman-teman harus mengubah semua kode yang teman-teman panggil. Seperti contoh seperti ini:
 ```php
 <?php
