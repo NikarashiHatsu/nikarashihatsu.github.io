@@ -1,0 +1,11 @@
+{
+    "name": "Muhamad Ahmadin",
+    "image" : "img/authors/muhamad-ahmadin.jpeg",
+    "bio": "Hai, Saya Ahmadin, seorang Web Developer dari Cirebon. Saya membuat aplikasi berbasis web sesuai dengan kebutuhan Anda.",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/mahmadin/" },
+        { "instagram": "https://www.instagram.com/ahmadinations/" },
+        { "youtube": "https://www.youtube.com/@devmager2962" },
+        { "github": "https://github.com/MuhamadAhmadin" }
+    ]
+}

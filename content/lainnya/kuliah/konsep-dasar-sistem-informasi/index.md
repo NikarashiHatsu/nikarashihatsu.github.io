@@ -2,7 +2,7 @@
 title: "Konsep Dasar Sistem, Konsep Dasar Informasi, dan Konsep Dasar Sistem Informasi"
 date: 2022-04-09T21:31:57+07:00
 draft: false
-tags: ["kuliah"]
+tags: ["article", "kuliah"]
 ---
 
 Secara sederhana suatu sistem dapat diartikan sebagai suatu kumpulan atau himpunan dari unsur, komponen, atau variabel yang terorganisir, saling berinteraksi, saling tergantung satu sama lain, dan terpadu. Salah satu teori mengenai sistem secara umum pertama kali yaitu, teori yang diuraikan oleh Kenneth Boulding terutama menekankan perhatian terhadap setiap bagian yang membentuk sebuah sistem.

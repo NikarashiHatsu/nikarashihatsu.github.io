@@ -2,7 +2,7 @@
 title: "Tinjauan Umum Pengembangan Sistem"
 date: 2022-07-01T19:36:05+07:00
 draft: false
-tags: ["kuliah"]
+tags: ["article", "kuliah"]
 ---
 
 Pengembangan sistem (*system development*) dapat berarti menyusun suatu sistem yang baru untuk menggantikan sistem yang lama secara keseluruhan atau memperbaiki sistem yang telah ada. 
