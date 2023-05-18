@@ -1,6 +1,7 @@
 ---
 title: "Kupas CI4: IncomingRequest Class"
 date: 2022-07-16T17:56:17+07:00
+tags: ["article", "codeigniter", "php"]
 draft: false
 ---
 
