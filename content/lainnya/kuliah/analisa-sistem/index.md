@@ -1,6 +1,6 @@
 ---
 title: "Analisa Sistem"
-date: 2023-05-18T22:41:16+07:00
+date: 2022-07-01T20:04:14+07:00
 tags: ["article", "kuliah"]
 draft: false
 showAuthor: true
