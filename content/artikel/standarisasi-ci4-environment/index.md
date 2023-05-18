@@ -1,6 +1,6 @@
 ---
 title: "Standarisasi CI4 - Environment"
-date: 2022-07-02T03:39:21+07:00
+date: 2022-07-02T09:39:42+07:00
 tags: ["article", "codeigniter", "php"]
 draft: false
 series: ["Standarisasi CI4"]

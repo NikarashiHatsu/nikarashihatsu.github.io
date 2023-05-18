@@ -1,6 +1,6 @@
 ---
 title: "Standarisasi CI4 - Model Query"
-date: 2022-07-02T03:39:21+07:00
+date: 2022-07-04T12:15:32+07:00
 tags: ["article", "codeigniter", "php"]
 draft: false
 series: ["Standarisasi CI4"]
