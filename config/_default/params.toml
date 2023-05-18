@@ -15,7 +15,7 @@ enableCodeCopy = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageOptimization = true
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -65,7 +65,7 @@ smartTOCHideUnfocusedChildren = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true
