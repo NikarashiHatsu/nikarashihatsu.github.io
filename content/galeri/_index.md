@@ -12,6 +12,8 @@ hobi fotografi.
 
 ## 2023
 {{< gallery >}}
+<img src="./Snapinsta.app_326092511_991133992273749_4837722603997281666_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_326125993_206774451927567_1382293476235731809_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./323458612_5404558189647829_1626791766768703549_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./324737311_552906446716892_4741487583159631293_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./325312245_1324699068372541_5358105723609350994_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -26,6 +28,11 @@ hobi fotografi.
 
 ## 2022
 {{< gallery >}}
+<img src="./Snapinsta.app_277642494_118831154087924_4128673934613266970_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_291345417_1266188990453929_8225479873750833508_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_299746336_475202844107057_6325442744866700301_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_310794486_603392424910367_5590914401164466434_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_312271271_636009821306825_815011273824905100_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./272364210_671892270847166_5699798811342023461_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./272390218_671926554177071_9101606017340391883_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./272213049_672063240830069_3257240050223353824_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -43,6 +50,8 @@ hobi fotografi.
 
 ## 2021
 {{< gallery >}}
+<img src="./Snapinsta.app_152065047_938251536980259_3108091090656757784_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./Snapinsta.app_259433757_821271721958941_5402765354615445385_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./188844947_523688352334226_6487938070226464241_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./193066210_523688775667517_3878080951028396586_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./191985225_523689392334122_8255329996903147662_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
