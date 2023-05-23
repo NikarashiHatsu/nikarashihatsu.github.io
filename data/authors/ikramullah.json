@@ -1,0 +1,10 @@
+{
+    "name": "Ikramullah",
+    "image" : "img/authors/ikramullah.jpg",
+    "bio": "Manusia.",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/ikramullah-ikram" },
+        { "instagram": "https://www.instagram.com/ikr.4m_/" },
+        { "github": "https://github.com/thatismunn" }
+    ]
+}
