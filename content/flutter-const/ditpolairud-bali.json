@@ -14,7 +14,7 @@
     "pelabuhanPerikanan": "https://polairud.bali.polri.go.id/airud-gis/open/tracking_lokasi_filter/pelabuhan-perikanan",
     "pelabuhanPenyebrangan": "https://polairud.bali.polri.go.id/airud-gis/open/tracking_lokasi_filter/pelabuhan-penyebrangan",
     "trackingkapal": "https://polairud.bali.polri.go.id/marine_traffic",
-    
+
     "login": "https://polairud.bali.polri.go.id/airud-ekinerja/api/v1/auth/login",
     "loginGis": "https://polairud.bali.polri.go.id/airud-gis/",
     "loginWeb": "https://polairud.bali.polri.go.id/login",
@@ -24,5 +24,12 @@
     "laporanGiatCreate": "https://polairud.bali.polri.go.id/airud-ekinerja/api/v1/laporan-giat/create",
     "laporanGiatStore": "https://polairud.bali.polri.go.id/airud-ekinerja/api/v1/laporan-giat",
     "laporanGiatDelete": "https://polairud.bali.polri.go.id/airud-ekinerja/api/v1/laporan-giat",
-    "cctv": "https://polairud.bali.polri.go.id/cctv/provinsi?withoutNavbar=true"
+    "cctv": "https://polairud.bali.polri.go.id/cctv/provinsi?withoutNavbar=true",
+
+    "socialMedia": {
+        "facebook": "https://web.facebook.com/profile.php?id=100080413337372",
+        "twitter": "https://instagram.com/ditpolairudpoldabali?igshid=YmMyMTA2M2Y=",
+        "instagram": "https://twitter.com/Ditpolairudbali",
+        "youtube": "https://www.youtube.com/channel/UCt1AoTqLYxtutilKAVT_MKw"
+    }
 }
