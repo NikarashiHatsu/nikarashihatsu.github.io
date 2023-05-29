@@ -12,6 +12,7 @@ hobi fotografi.
 
 ## 2023
 {{< gallery >}}
+<img src="./IMG_20230529_083408.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./Snapinsta.app_326092511_991133992273749_4837722603997281666_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./Snapinsta.app_326125993_206774451927567_1382293476235731809_n_1080.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./323458612_5404558189647829_1626791766768703549_n.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
