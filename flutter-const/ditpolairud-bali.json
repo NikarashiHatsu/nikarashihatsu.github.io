@@ -27,9 +27,9 @@
     "cctv": "https://polairud.bali.polri.go.id/cctv/provinsi?withoutNavbar=true",
 
     "socialMedia": {
-        "facebook": "https://web.facebook.com/profile.php?id=100080413337372",
-        "twitter": "https://instagram.com/ditpolairudpoldabali?igshid=YmMyMTA2M2Y=",
-        "instagram": "https://twitter.com/Ditpolairudbali",
-        "youtube": "https://www.youtube.com/channel/UCt1AoTqLYxtutilKAVT_MKw"
+        "facebook": "fb://profile/100080413337372",
+        "twitter": "twitter://user?screen_name=Ditpolairudbali",
+        "instagram": "instagram://ditpolairudpoldabali",
+        "youtube": "vnd.youtube://www.youtube.com/@airudbali1950"
     }
 }
