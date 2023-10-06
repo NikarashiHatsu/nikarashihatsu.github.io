@@ -31,6 +31,14 @@ Well, let's get coding.
 
 - [[2023-10-04] Improves Repo's Code of Conducts, Contributing, and How-to Indonesian Grammars](https://github.com/EbookFoundation/free-programming-books/pull/9812)
 
+{{< github repo="NikarashiHatsu/codeigniter4-kit" >}}
+
+- [[2023-10-05] OPEN ISSUE: Upgrade CodeIgniter to v4.4.1](https://github.com/NikarashiHatsu/codeigniter4-kit/issues/1)
+- [[2023-10-05] OPEN ISSUE: Upgrade DaisyUI to v3.9.1](https://github.com/NikarashiHatsu/codeigniter4-kit/issues/2)
+- [[2023-10-05] OPEN ISSUE: Upgrade `package.json` and `composer.json` libraries' version`](https://github.com/NikarashiHatsu/codeigniter4-kit/issues/3)
+- [[2023-10-05] OPEN ISSUE: Feature Request: Edit User Profile from the Dashboard](https://github.com/NikarashiHatsu/codeigniter4-kit/issues/4)
+- [[2023-10-05] OPEN ISSUE: Hacktoberfest Issues](https://github.com/NikarashiHatsu/codeigniter4-kit/issues/5)
+
 
 ## Closed-source
 
@@ -57,7 +65,20 @@ Well, let's get coding.
 
 ### Hanjuan.net/sikanda
 
-*More info will be added later*
+- [2023-10-04] feat (menu): add available menus to be used (#209338e)
+- [2023-10-04] chore (technical): merge dependabot bumps
+- [2023-10-05] feat (dashboard): initial dashboard menus (#b2659c2)
+- [2023-10-05] chore (dashboard): convert page to livewire (#f0ddc4b)
+- [2023-10-05] feat (modal): mockup penerimaan perlengkapan (#123c52e)
+- [2023-10-05] feat (modal): mockup distributor (#2598580)
+- [2023-10-05] chore (dashboard): set distributor button to open distributor modal (#a77066a)
+- [2023-10-05] fix (modal, distributor): label `penanggungjawab` overflow (#7be8e60)
+- [2023-10-05] feat (modal): perlengkapan (#3deee02)
+- [2023-10-05] fix (modal, perlengkapan): typo and wrong icon (#af99723)
+- [2023-10-05] chore (system): install laravel sail `#4de5e5c`
+- [2023-10-05] chore (technical): deploy
+- [2023-10-05] fix (route): invalid livewire route action (#b209a9b8)
+- [2023-10-05] fix (system): `\App\View\Components\Layout\App` didn't comply PSR-4 standard (#4e6700d)
 
 
 ### PT. Bengkel Web Indonesia/dumas-presisi
