@@ -25,6 +25,7 @@ Well, let's get coding.
 - [[2023-10-04] feat: add CMYK](https://github.com/ozdemirburak/iris/pull/44)
 - [[2023-10-04] feat: color clone](https://github.com/ozdemirburak/iris/pull/45)
 - [[2023-10-05] feat: safe-alpha trait](https://github.com/ozdemirburak/iris/pull/46)
+- [[2023-10-06] fix: rgba to hlsa and hexa to hsla](https://github.com/ozdemirburak/iris/pull/47)
 
 {{< github repo="EbookFoundation/free-programming-books" >}}
 
@@ -39,19 +40,33 @@ Well, let's get coding.
 *More info will be added later*
 
 
+### Hanjuan.net/simperkim
+
+- [2023-10-04] change (guest layout): ubah penggunaan livewire filtering menjadi menggunakan menu secara langsung (#eef53f1)
+- [2023-10-04] change (system): hapus gambar gedung (#bb68ae0)
+- [2023-10-04] feat (map overview): custom warna poligon (#95c20aa)
+- [2023-10-04] feat (map overview): custom warna icon (#edbdaa3)
+- [2023-10-05] fix (point input): area can not be null (#eb2bc2a)
+- [2023-10-05] fix (point input): latitude and longitude didn't persists on edit (#31567a5)
+
+
 ### Hanjuan.net/sikpkp
 
 *More info will be added later*
 
 
-### Hanjuan.net/maupetis
+### Hanjuan.net/sikanda
 
 *More info will be added later*
 
 
 ### PT. Bengkel Web Indonesia/dumas-presisi
 
-*More info will be added later*
+- [2023-10-07] fix (statistik grafik v2): satker pengelola masih sebagai satker terlapor (#6fcdb65)
+- [2023-10-07] feat (backtrace summary): filtering periodik (#59eb794)
+- [2023-10-07] chore (technical fix): jumlah tanggapan tidak sesuai dengan jumlah status penyelesaian
+- [2023-10-07] revert #e0d1d97 (pengaduan selesai): laporan dengan status selesai diproses dikembalikan lagi ke halaman tindak lanjut status (#3496f3b)
+- [2023-10-07] chore (technical): weekly backup
 
 
 ### PT. Quantum Teknologi Indonesia/kenangan-backend

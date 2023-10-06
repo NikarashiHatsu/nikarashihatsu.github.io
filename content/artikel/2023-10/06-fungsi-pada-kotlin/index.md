@@ -137,7 +137,7 @@ fun ucapanUltah(): String {
 }
 ```
 
-4. Menggunakan sintaks *string template* yang ada di seri [ke-3](../variabel-pada-kotlin/#string-template), kita bisa menggabungkan 2 pesan di atas menjadi 1 return.
+4. Menggunakan sintaks *string template* yang ada di seri [ke-3](../04-variabel-pada-kotlin/#string-template), kita bisa menggabungkan 2 pesan di atas menjadi 1 return.
 
 Kita juga akan menggunakan karakter `\n` yang digunakan untuk memisah baris.
 
