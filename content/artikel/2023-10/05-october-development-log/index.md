@@ -11,6 +11,8 @@ Yap, bulan Oktober, tentunya bulan Hacktoberfest! Suatu event tahunan dimana pen
 
 ![](./Screenshot%202023-10-05%20at%2018.45.45.png)
 
+[![An image of @irlnidallah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irlnidallah)](https://holopin.io/@irlnidallah)
+
 Yoi, Hacktoberfest Saya kelar di hari ke-5. A trully intensive yet fun experience. Ini pertama kalinya Saya serius di Hacktoberfest, tahun sebelumnya Saya cuma daftar, nggak ngikut sampai selesai karena kerjaan sama nggak tau mana repositori yang harus dicontribute, susah-susah soalnya wkwkwk :grinning_face_with_sweat:.
 
 Anyway, selamat datang di Development Log. Development Log adalah suatu seri yang berisi tentang hal-hal apa saja yang telah Saya bangun, kembangkan, atau kontribusikan terhadap suatu project baik itu open-source atau closed-source. Kebanyakan dari kontribusi open-source akan Saya cantumkan tautan issue / PR-nya, namun untuk closed-source akan Saya sertakan short commit-hashnya saja.
@@ -60,7 +62,7 @@ Well, let's get coding.
 
 ### Hanjuan.net/sikpkp
 
-*More info will be added later*
+- [2023-10-11] chore (technical): ubah nama aplikasi ke Sidakan (Sistem Informasi Data Pembudidayaan Ikan)
 
 
 ### Hanjuan.net/sikanda
@@ -79,6 +81,7 @@ Well, let's get coding.
 - [2023-10-05] chore (technical): deploy
 - [2023-10-05] fix (route): invalid livewire route action (#b209a9b8)
 - [2023-10-05] fix (system): `\App\View\Components\Layout\App` didn't comply PSR-4 standard (#4e6700d)
+- [2023-10-11] chore (technical): proses bisnis
 
 
 ### PT. Bengkel Web Indonesia/dumas-presisi
@@ -88,6 +91,24 @@ Well, let's get coding.
 - [2023-10-07] chore (technical fix): jumlah tanggapan tidak sesuai dengan jumlah status penyelesaian
 - [2023-10-07] revert #e0d1d97 (pengaduan selesai): laporan dengan status selesai diproses dikembalikan lagi ke halaman tindak lanjut status (#3496f3b)
 - [2023-10-07] chore (technical): weekly backup
+
+
+### PT. Bengkel Web Indonesia/surat-riau
+
+- [2023-10-11] feat (flow polres): antar satker tingkat `si` (#5c6a8d1)
+- [2023-10-11] feat (flow polres): tujuan polres lain (#ba75ae2)
+- [2023-10-11] feat (flow polres): tujuan polda a.n kapolres / wakapolres (#ba75ae2)
+- [2023-10-11] feat (flow polres): antar satker tingkat `bag` (#218010b)
+- [2023-10-11] feat (flow polres): antar satker tingkat `sat` (#045fa4c)
+- [2023-10-11] chore (technical): upsert user Polres Kep. Meranti, Rohil, Bengkalis
+- [2023-10-11] feat (user role): role grouping (#c5afc4f)
+- [2023-10-11] fix (flow polres): wakapolres tidak bisa ttd (#fa3eb8f)
+- [2023-10-11] fix (flow polres): template surat tidak ngeload (#3af2091)
+- [2023-10-11] fix (flow polres): surat polres ke polres tidak masuk melalui si um terlebih dahulu (#686ab8f)
+- [2023-10-11] test (technical): test flow lengkap antar polres
+- [2023-10-11] feat (user role): tambah user admin (#bed3bdd)
+- [2023-10-11] fix (disposisi): disposisi tidak tampil pada user role kasatker (#32951ae, #f3d01d1)
+- [2023-10-11] chore (seeder): user admin seeder (#8c6553a)
 
 
 ### PT. Quantum Teknologi Indonesia/kenangan-backend
