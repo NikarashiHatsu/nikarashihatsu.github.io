@@ -17,6 +17,8 @@ buildFuture = false
 
 googleAnalytics = "G-CRCH9872R4"
 
+disableKinds = ['sitemap']
+
 [imaging]
   anchor = 'Center'
 
