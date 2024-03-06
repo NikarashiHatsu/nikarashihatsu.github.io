@@ -671,3 +671,70 @@ Setelah mengirimkan bukti pembayaran, Anda tidak dapat menggunakan layanan ini l
 Anda juga harus menunggu seorang Admin Pugugo untuk memverifikasikan pembayaran, jika data yang dikirimkan benar dan sudah diverifikasi, maka akun Anda akan berubah menjadi *Premium*.
 
 ![](./premium-plan/step-3.png)
+
+
+## Kode Referral
+
+{{< alert >}}
+**Penting!** Kode Referral hanya berlaku untuk sesama pelamar, dan hanya akan muncul ketika pelamar tersebut sudah memiliki Premium Plan.
+{{< /alert >}}
+
+![](./referral/referral-1.png)
+
+Bagian Kode Referral akan dapat diakses dari halaman profil, dan masing-masing akun memiliki kode referral yang unik.
+
+![](./referral/referral-2.png)
+
+Akan terdapat 4 tombol yang dapat ditekan dan masing-masing memiliki aksi yang berbeda.
+1. Salin Kode Referral
+2. Salin Tautan Referral
+3. Lihat Histori Referral
+4. Tarik Saldo Referral
+
+Kita akan membahas masing-masing tombol secara detil di bawah ini:
+
+
+### Salin Kode Referral
+
+Untuk menyalin kode referral, Anda hanya harus menekan tombol Salin Kode Referral
+
+![](./referral/referral-3.png)
+
+Hasil dari Kode Referral yang disalin akan masuk ke *clipboard* dan dapat ditempel, contoh dari hasil aksi tersebut adalah sebagai berikut `PGvmVkCS`.
+
+
+### Salin Tautan Referral
+
+Untuk menyalin tautan referral, Anda hanya harus menekan tombol Salin Tautan Referral
+
+![](./referral/referral-4.png)
+
+Hasil dari Tautan Referral yang disalin akan masuk ke *clipboard* dan dapat ditempel, contoh dari hasil aksi tersebut adalah sebagai berikut `https://pugugo.test/register?referralCode=PGvmVkCS`.
+
+
+### Lihat Histori Referral
+
+Untuk melihat histori referral, yaitu poin referral yang didapatkan / diambil, Anda hanya harus menekan tombol Lihat Histori Referral
+
+![](./referral/referral-5.png)
+
+Akan tampil sebuah modal berikut:
+
+![](./referral/referral-6.png)
+
+Contoh data lengkapnya adalah sebagai berikut:
+
+![](./referral/referral-7.png)
+
+Penjelasan dari masing-masing status adalah sebagai berikut:
+- Valid - pengguna menggunakan kode referral tersebut dan **sudah mendaftar Premium Plan dan sudah diverifikasi**.
+- Invalid - pengguna menggunakan kode referral, namun **belum mendaftar Premium Plan atau belum diverifikasi**.
+
+
+### Tarik Saldo Referral
+
+Untuk menarik saldo referral, Anda hanya harus menekan tombol Tarik Saldo Referral.
+
+![](./referral/referral-8.png)
+
+Anda harus mengikuti langkah-langkah yang dijelaskan pada dialog di atas, lalu menunggu Admin untuk memberikan saldonya ke rekening Anda.
