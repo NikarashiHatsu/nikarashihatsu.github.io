@@ -7,6 +7,13 @@ draft: false
 
 Pugugo adalah suatu sistem yang dapat digunakan oleh Korporat sebagai media pembagian lowongan kerja, serta dapat digunakan oleh Pelamar untuk melamar suatu pekerjaan pada suatu korporat / perusahaan. Aplikasi ini memiliki beberapa modul yang masing-masing akan dijelaskan pada bagiannya tersendiri.
 
+**Preambule**
+
+Secara teknis, aplikasi ini dirancang menggunakan *stack* sebagai berikut:
+1. Laravel 10
+2. Laravel Livewire 3
+3. Tailwind CSS
+4. Alpine.JS
 
 ## Autentikasi
 
