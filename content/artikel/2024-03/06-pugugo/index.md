@@ -274,6 +274,45 @@ Setelah semua dirasa lengkap dan sesuai, silahkan tekan tombol Simpan untuk mene
 - Banyaknya (n) lowongan disimpan / ditandai
 - Banyaknya (n) pelamar
 
+
+### Menerima / Menolak Pelamar
+
+Pada bagian ini, Anda akan mempelajari bagaimana untuk menerima / menolak pelamar. Mohon ikuti langkah-langkah berikut secara seksama:
+
+1. Buka menu `Unggah Pekerjaan` pada navigasi yang terletak di atas aplikasi.
+
+![](./korporat/manage-employee-1.png)
+
+2. Pilih salah satu lowongan pekerjaan.
+
+![](./korporat/manage-employee-2.png)
+
+Dapat Anda lihat di atas bahwa lowongan ini telah dilihat sebanyak 5x, dibagikan sebanyak 2x, disimpan dan dilamar sebanyak 1x. Untuk melihat data pelamar yang ada pada lowongan kerja tersebut, tekan tombol `Pelamar`.
+
+![](./korporat/manage-employee-3.png)
+
+Akan muncul sebuah dialog yang berisikan:
+- Filter pelamar berdasarkan skill.
+- Badge yang bisa ditekan *on/off* untuk memfilter secara otomatis.
+- Seluruh data pelamar.
+
+3. Tekan salah satu pelamar.
+
+![](./korporat/manage-employee-4.png)
+
+4. Anda akan melihat detail data pelamar tersebut.
+
+![](./korporat/manage-employee-5.png)
+
+5. Setelah melihat secara sekilas seluruh data pelamar, maka keputusan diterima / ditolaknya ada di tangan Anda. Untuk menerima / menolak pelamar tekan tombol `Terima` atau `Tolak` yang ada di kanan bawah. Anda akan melihat sebuah modal persetujuan sebelum data diterima / ditolak dikirimkan ke aplikasi.
+
+![](./korporat/manage-employee-6.png)
+
+6. Setelah menerima / menolak pelamar, maka status pelamar tersebut akan berubah menjadi `diterima` / `ditolak`. Sebuah notifikasi berisikan diterima/ditolaknya pelamar juga akan terkirim melalui Email dan *in-app notification*.
+
+![](./korporat/manage-employee-7.png)
+
+
 ## Pelamar
 
 Pada bagian ini, Anda akan mempelajari bagaimana untuk melengkapi profil, melamar kerja, serta meningkatkan akun ke Premium.
