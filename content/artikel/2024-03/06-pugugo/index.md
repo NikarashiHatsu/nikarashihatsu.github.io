@@ -266,3 +266,241 @@ Setelah semua dirasa lengkap dan sesuai, silahkan tekan tombol Simpan untuk mene
 - Banyaknya (n) lowongan dibagikan
 - Banyaknya (n) lowongan disimpan / ditandai
 - Banyaknya (n) pelamar
+
+## Pelamar
+
+Pada bagian ini, Anda akan mempelajari bagaimana untuk melengkapi profil, melamar kerja, serta meningkatkan akun ke Premium.
+
+
+### Melengkapi Profil
+
+Untuk melengkapi profil, Anda harus menekan tombol akun yang ada di kanan atas, lalu klik sub-menu Profil.
+
+![](./pelamar/user-profile-navbar.png)
+
+Setelah itu, Anda akan melihat halaman profil seperti ini.
+
+![](./pelamar/user-profile-1.png)
+
+Di bagian kiri, terdapat beberapa menu yang digunakan untuk mengatur profil Anda.
+
+1. Profil Saya - berisi informasi profil yang harus Anda lengkapi.
+2. Sosial Media - berisi informasi sosial media.
+3. Keamanan - berisi form untuk mengubah kata sandi login.
+4. Pengalaman - berisi form untuk menambah pengalaman kerja Anda.
+5. Pendidikan - berisi form untuk menambah data pendidikan Anda.
+6. Bidang Keahlian - berisi form untuk menambah data keahlian Anda.
+7. Skill - berisi form untuk menambah *soft skill* atau *hard-skill* Anda.
+8. Portfolio - berisi form untuk menambah portfolio Anda.
+9. Sertifikasi - berisi form untuk menambah sertifikasi yang telah Anda tempuh.
+10. Buat CV - modul spesial yang memungkinkan Anda untuk membuat CV secara otomatis berdasarkan data-data yang telah Anda inputkan pada sistem.
+
+Di bagian kanan berisi inputan-inputan dari masing-masing menu yang ada di bagian kiri. *Screenshot* di atas menunjukkan bahwa halaman saat ini adalah halaman `Profil Saya`. Masing-masing bagian akan dijelaskan secara lengkap.
+
+
+#### Profil Saya
+
+Menu ini berisi informasi pribadi. Terdapat beberapa sub-bagian yang butuh dilengkapi.
+
+1. **Foto Profil**
+
+Foto Profil diisi dengan logo korporat atau perusahaan Anda. Harap menggunakan logo yang jelas dengan resolusi yang direkomendasikan 512x512 dengan format PNG atau format JPG.
+
+2. **Informasi Pribadi**
+
+Informasi Pribadi diisi dengan identitas diri Anda. Terdapat beberapa inputan yaitu:
+- Nama Awal, diisi dengan nama awal Anda.
+- Nama Akhir, diisi dengan nama akhir Anda, jika nama akhir Anda mengandung lebih dari 1 kata, maka cantumkan seluruh nama Anda kecuali nama awal.
+- Email, diisi dengan email Anda, digunakan untuk login, disarankan untuk tidak mengganti email jika tidak ada pendelegasian akun.
+- Nomor Telepon, diisi dengan nomor telepon yang valid, gunakan angka 62 di awal, dan isikan seluruh nomor tanpa ada spasi atau strip.
+- Jenis Kelamin, pilih salah satu yang sesuai dengan jenis kelamin Anda.
+- Jabatan, diisi dengan posisi yang Anda jabat sekarang.
+- Bio, diisi dengan biodata singkat Anda, tidak perlu diisi secara lengkap.
+
+3. **Alamat**
+
+Informasi Alamat diisikan dengan alamat kantor saat ini. Terdapat pilihan Provinsi, Kota/Kabupaten, Kecamatan, Desa, serta Kode Pos.
+
+
+#### Sosial Media
+
+![](./pelamar/user-profile-social-media.png)
+
+Pada bagian ini terdapat beberapa sosial media yang dapat kami akomodir dan ditampilkan pada saat Anda melamar ke sebuah perusahaan. Sosial Media yang kami akomodir antara lain:
+
+- Facebook
+- YouTube
+- WhatsApp
+- Instagram
+- TikTok
+- Snapchat
+- Pinterest
+- Reddit
+- LinkedIN
+- X (sebelumnya dikenal dengan Twitter)
+
+Untuk mengisi sosial media, diharapkan untuk hanya mencantumkan ID dari masing-masing sosial media, karena kami sudah mengakomodir potongan tautan yang digunakan untuk masing-masing sosial media.
+
+
+#### Keamanan
+
+![](./pelamar/user-profile-keamanan.png)
+
+Menu Keamanan ini diperuntukkan hanya untuk mengubah kata sandi. Kami sarankan untuk mengubah kata sandi Anda minimal 1 tahun sekali untuk menghindari akses secara *bruteforce*.
+
+
+#### Pengalaman
+
+![](./pelamar/user-profile-pengalaman.png)
+
+Menu Pengalaman ini digunakan untuk menambahkan pengalaman kerja Anda yang terdahulu. Halaman ini akan menunjukkan seluruh pengalaman Anda yang sudah diinputkan ke sistem. Untuk menambah data pengalaman, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-pengalaman-1.png)
+
+Pada bagian Administrasi Perusahaan, inputan-inputan tersebut adalah:
+- Logo Perusahaan - unggah logo perusahaan dengan format PNG atau JPG dengan resolusi yang disarankan 512x512.
+- Nama Perusahaan - diisi dengan nama perusahaan dimana Anda pernah bekerja.
+- Jabatan / Posisi - diisi dengan jabatan yang pernah Anda pegang di perusahaan tersebut.
+- Tipe Pekerjaan - pilih salah satu tipe pekerjaan yang sesuai. Terdapat opsi Harian, Magang, Penuh Waktu, Paruh Waktu, Kontrak.
+- Tanggal Mulai - pilih tanggal Anda mulai bekerja di perusahaan tersebut.
+- Tanggal Selesai (opsional) - pilih tanggal Anda selesai bekerja di perusahaan tersebut, kosongkan jika masih bekerja.
+- Job Desc (wajib isi satu) - diisi dengan *job desc* Anda pada perusahaan tersebut.
+
+![](./pelamar/user-profile-pengalaman-2.png)
+
+Pada bagian Alamat, inputan-inputan tersebut adalah:
+- Provinsi - pilih Provinsi tempat di mana Anda bekerja.
+- Kota / Kabupaten - pilih Kota / Kabupaten tempat di mana Anda bekerja.
+- Lokasi - diisi dengan alamat lengkap perusahaan Anda bekerja.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data pengalaman Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data pengalaman Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data pengalaman kerja yang baru diinputkan.
+
+![](./pelamar/user-profile-pengalaman-3.png)
+
+
+#### Pendidikan
+
+![](./pelamar/user-profile-pendidikan.png)
+
+Menu Pendidikan ini digunakan untuk menambahkan pendidikan yang telah Anda tempuh. Halaman ini akan menunjukkan seluruh pendidikan Anda yang sudah diinputkan ke sistem. Untuk menambah data pendidikan, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-pendidikan-1.png)
+
+Pada modal ini, inputan-inputan tersebut adalah:
+- Tipe Pendidikan - pilih salah satu yang ingin Anda tambahkan, terdapat beberapa opsi yaitu SMA, SMK, Diploma, S1, S2, dan S3.
+- Nama Instansi - diisi dengan nama instansi pendidikan di mana Anda menempuh jenjang pendidikan.
+- Jurusan - diisi dengan jurusan yang Anda tempuh di instansi tersebut.
+- Provinsi - diisi dengan Provinsi instansi pendidikan tersebut berada.
+- Kota / Kabupaten - diisi dengan Kota / Kabupaten instansi pendidikan tersebut berada.
+- Tanggal Mulai - pilih tanggal Anda mulai belajar di instansi pendidikan tersebut.
+- Tanggal Selesai (opsional) - pilih tanggal Anda selesai belajar di instansi pendidikan tersebut, kosongkan jika masih menempuh jenjang tersebut.
+- Nilai Rata-rata UN / IPK (akan muncul setelah memilih Tipe Pendidikan) - diisi dengan nilai rata-rata UN atau IPK Anda.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data pendidikan Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data pendidikan Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data pendidikan yang baru diinputkan.
+
+![](./pelamar/user-profile-pendidikan-2.png)
+
+
+#### Bidang Keahlian
+
+![](./pelamar/user-profile-bidang-keahlian.png)
+
+Menu Bidang Keahlian ini digunakan untuk menambahkan bidang keahlian yang telah Anda kuasai. Halaman ini akan menunjukkan seluruh bidang keahlian Anda yang sudah diinputkan ke sistem. Untuk menambah data bidang keahlian, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-bidang-keahlian-1.png)
+
+Pada modal ini, inputan-inputan tersebut adalah:
+- Nama Bidang Keahlian - diisi dengan bidang keahlian yang Anda kuasai.
+- Penjelasan Singkat Bidang Keahlian - diisi dengan penjelasan singkat tentang bidang yang dikuasai.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data bidang keahlian Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data bidang keahlian Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data bidang keahlian yang baru diinputkan.
+
+![](./pelamar/user-profile-bidang-keahlian-2.png)
+
+
+#### *Skill*
+
+![](./pelamar/user-profile-skill.png)
+
+Menu *Skill* ini digunakan untuk menambahkan *skill* yang telah Anda kuasai. Halaman ini akan menunjukkan seluruh *skill* Anda yang sudah diinputkan ke sistem. Untuk menambah data *skill*, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-skill-1.png)
+
+Pada modal ini, inputan-inputan tersebut adalah:
+- Nama *Skill* - diisi dengan *skill* yang Anda kuasai.
+- Penjelasan Singkat *Skill* - diisi dengan penjelasan singkat tentang skill yang dikuasai.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data *skill* Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data *skill* Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data *skill* yang baru diinputkan.
+
+![](./pelamar/user-profile-skill-2.png)
+
+
+#### Portfolio
+
+![](./pelamar/user-profile-portfolio.png)
+
+Menu Portfolio ini digunakan untuk menambahkan Portfolio yang telah Anda selesaikan. Halaman ini akan menunjukkan seluruh Portfolio Anda yang sudah diinputkan ke sistem. Untuk menambah data Portfolio, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-portfolio-1.png)
+
+Pada modal ini, inputan-inputan tersebut adalah:
+- Nama Portfolio - diisi dengan Portfolio yang Anda telah selesaikan.
+- Lampiran (opsional) - unggah hasil dari Portfolio Anda terkait projek tersebut. Lampiran yang dapat diunggah adalah file berbentuk PDF dengan maksimal ukuran 2MB.
+- Penjelasan Singkat Portfolio - diisi dengan penjelasan singkat tentang portfolio yang diselesaikan.
+- Tanggal Penyelesaian Portfolio - diisi dengan tanggal penyelesaian portfolio.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data Portfolio Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data Portfolio Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data Portfolio yang baru diinputkan.
+
+![](./pelamar/user-profile-portfolio-2.png)
+
+
+#### Sertifikasi
+
+![](./pelamar/user-profile-sertifikasi.png)
+
+Menu Sertifikasi ini digunakan untuk menambahkan Sertifikasi yang telah Anda selesaikan. Halaman ini akan menunjukkan seluruh Sertifikasi Anda yang sudah diinputkan ke sistem. Untuk menambah data Sertifikasi, silahkan ikuti langkah-langkah berikut:
+
+1. Klik tombol tambah yang ada di kanan atas panel. Setelah itu Anda akan melihat sebuah modal yang berisi inputan-inputan data.
+
+![](./pelamar/user-profile-sertifikasi-1.png)
+
+Pada modal ini, inputan-inputan tersebut adalah:
+- Nama Sertifikasi - diisi dengan Sertifikasi yang Anda telah selesaikan.
+- Bidang Sertifikasi - diisi dengan bidang pada sertifikasi yang Anda telah selesaikan.
+- Penjelasan Singkat Sertifikasi - diisi dengan penjelasan singkat tentang sertifikasi yang diselesaikan.
+- Tanggal Akhir Berlakunya Sertifikasi - diisi dengan tanggal akhir berlakunya sertifikasi.
+- Lampiran (opsional) - unggah hasil dari Sertifikasi Anda terkait sertifikasi tersebut. Lampiran yang dapat diunggah adalah file berbentuk PDF dengan maksimal ukuran 2MB.
+
+2. Setelah semuanya dirasa lengkap, silahkan tekan tombol simpan untuk menyimpan data Sertifikasi Anda. Setelah Anda menekan tombol simpan, akan ada sebuah dialog yang menyatakan data Sertifikasi Anda berhasil disimpan di sistem. Anda juga akan dapat melihat data Sertifikasi yang baru diinputkan.
+
+![](./pelamar/user-profile-sertifikasi-2.png)
+
+
+#### Buat CV
+
+![](./pelamar/user-profile-buat-cv.png)
+
+Menu ini digunakan untuk membuat CV secara otomatis melalui sistem. Terdapat 2 jenis CV yaitu CV *free template* dan *premium template* yang mengharuskan Anda untuk meng-*upgrade* akun Anda untuk mendapatkan fitur ini. Untuk membuat CV, ikuti langkah-langkah berikut:
+
+1. Tekan salah satu *template* CV yang ingin Anda buat, lalu klik tombol Cetak yang terletak di kanan bawah panel.
+
+![](./pelamar/user-profile-buat-cv-2.png)
+
+
+2. Setelah itu, Anda akan melihat halaman cetak yang secara otomatis sudah mengikuti *template*. Anda hanya perlu mengatur beberapa pengaturan tampilan cetak, lalu tekan tombol Simpan.
+
+![](./pelamar/user-profile-buat-cv-2.png)
+
+3. Data CV akan tersimpan dalam bentuk PDF di PC / Laptop Anda. Data CV lengkap memiliki contoh seperti ini:
+
+![](./pelamar/user-profile-buat-cv-3.png)
