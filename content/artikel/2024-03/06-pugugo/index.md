@@ -644,3 +644,30 @@ Anda akan melihat sebuah dialog bahwa tautan lowongan telah disalin ke *clipboar
 ![](./pelamar/share-1.png)
 
 Hasil tautan yang disalin seperti ini: `https://pugugo.test?vacancyId=9b7f1988-53ae-49ae-947e-ace8b8007ec8`.
+
+
+## Premium Plan
+
+Pada bagian ini, akan menjelaskan bagaimana caranya Korporat / Pelamar dapat membeli *Premium Plan* dari sistem. Akan terdapat perbedaan *Premium Plan* dari masing-masing tipe akun, bisa dilihat pada *screenshot* di bawah:
+
+*Premium Plan* Pelamar:
+
+![](./premium-plan/premium-plan-employer.png)
+
+*Premium Plan* Korporat:
+
+![](./premium-plan/premium-plan-corporate.png)
+
+Untuk mengajukan sebuah *Premium Plan* silahkan tekan tombol `Mulai` pada harga yang sesuai untuk akun Anda. Setelah itu akan muncul sebuah modal berisikan informasi *plan* tersebut dan Anda diwajibkan untuk mengirimkan bukti transfer kepada nomor yang tertera di modal.
+
+![](./premium-plan/step-1.png)
+
+Setelah mengunggah dan memastikan data benar, klik tombol `Kirim Bukti Pembayaran`. Bukti pembayaran dapat berupa file gambar PNG atau JPG, serta PDF, dengan ukuran file tidak melebihi 4MB.
+
+![](./premium-plan/step-2.png)
+
+Setelah mengirimkan bukti pembayaran, Anda tidak dapat menggunakan layanan ini lagi terhitung 30 hari setelah Anda mengirimkan bukti pembayaran. Fitur ini dirancang untuk mencegah spam dan mencegah oknum tidak bertanggung jawab untuk merusak sistem.
+
+Anda juga harus menunggu seorang Admin Pugugo untuk memverifikasikan pembayaran, jika data yang dikirimkan benar dan sudah diverifikasi, maka akun Anda akan berubah menjadi *Premium*.
+
+![](./premium-plan/step-3.png)
