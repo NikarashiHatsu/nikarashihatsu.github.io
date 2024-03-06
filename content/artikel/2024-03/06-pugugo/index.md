@@ -216,3 +216,53 @@ Menu Google Map ini digunakan untuk menandakan di mana kantor Anda berada. Untuk
 4. Anda akan melihat sebuah dialog bahwa inputan berhasil disimpan dan Anda akan dapat melihat bahwa identitas lokasi perusahaan Anda sudah muncul.
 
 ![](./korporat/google-map-step-4.png)
+
+
+### Menambah Lowongan Pekerjaan
+
+Pada bagian ini Anda akan mempelajari bagaimana caranya untuk menambah Lowongan Pekerjaan. Mohon untuk ikuti langkah-langkah berikut dengan seksama.
+
+1. Buka menu `Unggah Pekerjaan` yang terdapat pada menu utama.
+
+![](./korporat/unggah-pekerjaan-1.png)
+
+Anda akan melihat beberapa informasi seperti berapa banyak lowongan pekerjaan yang dapat Anda buat, lalu daftar lowongan kerja yang sudah Anda buat. Pada *screenshot* di atas tidak terdapat satu-pun lowongan kerja yang sudah diterbitkan, mari kita terbitkan salah satu.
+
+2. Klik tombol Tambah yang ada di kanan atas, tepat di bawah profil Anda. Setelah itu Anda akan melihat beberapa lowongan data lowongan pekerjaan yang harus anda isikan.
+
+Pada *Step 1: Administrasi*, Anda akan melihat inputan sebagai berikut.
+
+![](./korporat/unggah-pekerjaan-2.png)
+
+Mohon isikan inputan berikut sesuai dengan ketentuan yang kami sediakan:
+- Nama Pekerjaan - diisi dengan nama pekerjaan yang sedang Anda butuhkan.
+- Tipe Pekerjaan - pilih salah satu yang sesuai dengan tipe pekerjaan yang Anda butuhkan, opsi yang tersedia adalah Harian, Magang, Penuh Waktu, Paruh Waktu, dan Kontrak.
+- Tempat Pekerjaan - pilih salah satu yang sesuai dengan tempat yang akan Anda berikan untuk pelamar, opsi yang tersedia adalah *On-site*, *Remote*, serta *Hybrid*.
+- Gaji - diisi dengan angka gaji eksak, boleh diisi dengan gaji minimum yang akan diterima atau diisi dengan gaji rata-rata karyawan lain yang ada di perusahaan Anda.
+- Deadline - pilih tenggat waktu loker ini ditampilkan di aplikasi. Batas waktu yang disediakan oleh aplikasi adalah 1 bulan (terhitung 30 hari) sejak hari lowongan kerja dibuat.
+- Deskripsi - diisi dengan deskripsi lengkap, **tanpa job desc, kualifikasi, preferensi korporat, serta fasilitas untuk pelamar**.
+- Dibutuhkan Segera (opsional) - centang jika lowongan pekerjaan dibutuhkan dengan segera.
+- Sembunyikan Gaji (opsional) - centang jika gaji dari pekerjaan yang Anda buat memiliki sifat variatif berdasarkan kemampuan pelamar atau butuh negosiasi.
+
+Setelah semua inputan pada *Step 1* selesai diinputkan, silahkan menuju ke *Step 2* untuk pengisian *Job Desc*, Kualifikasi, Preferensi Korporat, dan Fasilitas untuk Pelamar.
+
+![](./korporat/unggah-pekerjaan-3.png)
+
+Pada *Step 2* ini terdapat beberapa inputan dinamis yang bisa ditambahkan dan dihapus, diantaranya:
+
+- *Job Descriptions* - diisi dengan *job desc* yang harus dilakukan oleh pelamar pada saat mereka diterima di perusahaan Anda, pastikan Anda menggunakan 1 inputan untuk 1 *job desc*.
+- Kualifikasi - diisi dengan kualifikasi pelamar sesuai yang Anda cari.
+
+![](./korporat/unggah-pekerjaan-4.png)
+
+- Preferensi Korporat - diisi dengan bagaimana pelamar harus beradaptasi dengan lingkungan perusahaan.
+- Fasilitas untuk Pelamar - diisi dengan fasilitas-fasilitas yang akan diberikan perusahaan saat mereka diterima di perusahaan Anda.
+
+Setelah semua dirasa lengkap dan sesuai, silahkan tekan tombol Simpan untuk menerbitkan lowongan kerja Anda. Anda akan dapat melihat data lowongan pekerjaan Anda di halaman ini dan dapat melihat berapa banyak pelamar yang sudah melamar di lowongan kerja tersebut. Pada masing-masing lowongan pekerjaan akan terdapat statistik singkat berupa:
+
+![](./korporat/unggah-pekerjaan-6.png)
+
+- Banyaknya (n) tampilan
+- Banyaknya (n) lowongan dibagikan
+- Banyaknya (n) lowongan disimpan / ditandai
+- Banyaknya (n) pelamar
