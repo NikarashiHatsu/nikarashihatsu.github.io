@@ -2,7 +2,7 @@
 title: "Manual Book Pugugo"
 date: 2024-03-06T06:40:00+07:00
 tags: ["tutorial", "pugugo", "akatekno"]
-draft: true
+draft: false
 ---
 
 Pugugo adalah suatu sistem yang dapat digunakan oleh Korporat sebagai media pembagian lowongan kerja, serta dapat digunakan oleh Pelamar untuk melamar suatu pekerjaan pada suatu korporat / perusahaan. Aplikasi ini memiliki beberapa modul yang masing-masing akan dijelaskan pada bagiannya tersendiri.
@@ -113,3 +113,106 @@ Setelah Anda mengakses tautan yang dikirimkan ke email, Anda akan melihat sebuah
 ![](./auth/reset-password.png)
 
 Setelah Anda menekan tombol `Perbarui Kata Sandi`, Anda akan dialihkan kembali ke halaman Login untuk masuk ke sistem Pugugo.
+
+
+## Korporat
+
+Pada bagian ini, Anda akan mempelajari bagaimana untuk melengkapi profil, menerbitkan lowongan kerja, menerima pelamar, serta meningkatkan akun ke Premium.
+
+
+### Melengkapi Profil
+
+Untuk melengkapi profil, Anda harus menekan tombol akun yang ada di kanan atas, lalu klik sub-menu Profil.
+
+![](./korporat/user-profile-navbar.png)
+
+Setelah itu, Anda akan melihat halaman profil seperti ini.
+
+![](./korporat/user-profile-corporate.png)
+
+Di bagian kiri, terdapat beberapa menu yang digunakan untuk mengatur profil Anda.
+
+1. Profil Saya - berisi informasi profil yang harus Anda lengkapi.
+2. Sosial Media - berisi informasi sosial media boleh dilengkapi untuk meningkatkan kredibilitas.
+3. Keamanan - berisi form untuk mengubah kata sandi login.
+4. Google Map - berisi informasi Google Map yang di-*embed* untuk memberikan informasi kepada pelamar di mana lokasi kantor berada.
+
+Di bagian kanan berisi inputan-inputan dari masing-masing menu yang ada di bagian kiri. *Screenshot* di atas menunjukkan bahwa halaman saat ini adalah halaman `Profil Saya`. Masing-masing bagian akan dijelaskan secara lengkap.
+
+
+#### Profil Saya
+
+Menu ini berisi informasi pribadi dan informasi perusahaan. Terdapat beberapa sub-bagian yang butuh dilengkapi.
+
+1. **Foto Profil**
+
+Foto Profil diisi dengan logo korporat atau perusahaan Anda. Harap menggunakan logo yang jelas dengan resolusi yang direkomendasikan 512x512 dengan format PNG atau format JPG.
+
+2. **Informasi Korporat**
+
+Informasi Korporat diisi dengan nama perusahaan Anda.
+
+3. **Informasi Pribadi**
+
+Informasi Pribadi diisi dengan identitas diri Anda. Terdapat beberapa inputan yaitu:
+- Nama Awal, diisi dengan nama awal Anda.
+- Nama Akhir, diisi dengan nama akhir Anda, jika nama akhir Anda mengandung lebih dari 1 kata, maka cantumkan seluruh nama Anda kecuali nama awal.
+- Email, diisi dengan email Anda, digunakan untuk login, disarankan untuk tidak mengganti email jika tidak ada pendelegasian akun.
+- Nomor Telepon, diisi dengan nomor telepon yang valid, gunakan angka 62 di awal, dan isikan seluruh nomor tanpa ada spasi atau strip.
+- Jenis Kelamin, pilih salah satu yang sesuai dengan jenis kelamin Anda.
+- Jabatan, diisi dengan posisi yang Anda jabat sekarang.
+- Bio, diisi dengan biodata singkat Anda, tidak perlu diisi secara lengkap.
+
+4. **Alamat**
+
+Informasi Alamat diisikan dengan alamat kantor saat ini. Terdapat pilihan Provinsi, Kota/Kabupaten, Kecamatan, Desa, serta Kode Pos.
+
+
+#### Sosial Media
+
+![](./korporat/user-profile-social-media.png)
+
+Pada bagian ini terdapat beberapa sosial media yang dapat kami akomodir dan ditampilkan ke Detail Informasi Perusahaan, tujuannya adalah untuk menunjukkan kredibilitas tambahan bahwa perusahaan yang Anda pegang adalah sebuah perusahaan yang valid dan dapat diakui. Sosial Media yang kami akomodir antara lain:
+
+- Facebook
+- YouTube
+- WhatsApp
+- Instagram
+- TikTok
+- Snapchat
+- Pinterest
+- Reddit
+- LinkedIN
+- X (sebelumnya dikenal dengan Twitter)
+
+Untuk mengisi sosial media, diharapkan untuk hanya mencantumkan ID dari masing-masing sosial media, karena kami sudah mengakomodir potongan tautan yang digunakan untuk masing-masing sosial media.
+
+
+#### Keamanan
+
+![](./korporat/user-profile-keamanan.png)
+
+Menu Keamanan ini diperuntukkan hanya untuk mengubah kata sandi. Kami sarankan untuk mengubah kata sandi Anda minimal 1 tahun sekali untuk menghindari akses secara *bruteforce*.
+
+
+#### Google Map
+
+![](./korporat/user-profile-google-map.png)
+
+Menu Google Map ini digunakan untuk menandakan di mana kantor Anda berada. Untuk menggunakan *embed* Google Map, silahkan ikuti langkah-langkah berikut:
+
+1. Buka Google Map, dan cari tempat kantor Anda berada. Lalu klik tombol Bagikan atau *Share*.
+
+![](./korporat/google-map-step-1.png)
+
+2. Akan terbuka dialog bagikan dari Google Maps, klik tab `Embed a map`, pilih ukuran yang disarankan yaitu `Small` atau `Medium`, lalu tekan tombol `Copy HTML`.
+
+![](./korporat/google-map-step-2.png)
+
+3. Tempelkan kode *embed* ke inputan `Embed Link` yang tersedia pada aplikasi, lalu klik Simpan.
+
+![](./korporat/google-map-step-3.png)
+
+4. Anda akan melihat sebuah dialog bahwa inputan berhasil disimpan dan Anda akan dapat melihat bahwa identitas lokasi perusahaan Anda sudah muncul.
+
+![](./korporat/google-map-step-4.png)
