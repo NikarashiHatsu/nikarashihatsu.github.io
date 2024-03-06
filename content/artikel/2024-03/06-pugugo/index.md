@@ -246,7 +246,7 @@ Mohon isikan inputan berikut sesuai dengan ketentuan yang kami sediakan:
 - Tipe Pekerjaan - pilih salah satu yang sesuai dengan tipe pekerjaan yang Anda butuhkan, opsi yang tersedia adalah Harian, Magang, Penuh Waktu, Paruh Waktu, dan Kontrak.
 - Tempat Pekerjaan - pilih salah satu yang sesuai dengan tempat yang akan Anda berikan untuk pelamar, opsi yang tersedia adalah *On-site*, *Remote*, serta *Hybrid*.
 - Gaji - diisi dengan angka gaji eksak, boleh diisi dengan gaji minimum yang akan diterima atau diisi dengan gaji rata-rata karyawan lain yang ada di perusahaan Anda.
-- Deadline - pilih tenggat waktu loker ini ditampilkan di aplikasi. Batas waktu yang disediakan oleh aplikasi adalah 1 bulan (terhitung 30 hari) sejak hari lowongan kerja dibuat.
+- Deadline - pilih tenggat waktu lowongan kerja ini ditampilkan di aplikasi. Batas waktu yang disediakan oleh aplikasi adalah 1 bulan (terhitung 30 hari) sejak hari lowongan kerja dibuat.
 - Deskripsi - diisi dengan deskripsi lengkap, **tanpa job desc, kualifikasi, preferensi korporat, serta fasilitas untuk pelamar**.
 - Dibutuhkan Segera (opsional) - centang jika lowongan pekerjaan dibutuhkan dengan segera.
 - Sembunyikan Gaji (opsional) - centang jika gaji dari pekerjaan yang Anda buat memiliki sifat variatif berdasarkan kemampuan pelamar atau butuh negosiasi.
@@ -511,3 +511,97 @@ Menu ini digunakan untuk membuat CV secara otomatis melalui sistem. Terdapat 2 j
 3. Data CV akan tersimpan dalam bentuk PDF di PC / Laptop Anda. Data CV lengkap memiliki contoh seperti ini:
 
 ![](./pelamar/user-profile-buat-cv-3.png)
+
+
+### Mendapatkan Informasi Lowongan Baru
+
+Seluruh pelamar yang sudah terdaftar pada sistem akan mendapatkan notifikasi melalui Email dan melalui *in-app notification*.
+
+Melalui email:
+
+![](./pelamar/email-notification-new-vacancy.png)
+
+Melalui *in-app notification*:
+
+![](./pelamar/in-app-notification-new-vacancy.png)
+
+
+### Melamar Pekerjaan
+
+![](./pelamar/applying-1.png)
+
+Pada bagian ini, Anda akan mempelajari cara untuk melamar pekerjaan pada aplikasi Pugugo. Secara teknis pada saat aplikasi ini dijalankan, *seharusnya* akan terdapat banyak lowongan kerja yang tersedia pada aplikasi ini. Pelamar akan diberikan banyak opsi lowongan kerja yang sesuai untuk dipilih dan dilamar. Untuk melamar sebuah lowongan pekerjaan, silahkan ikuti langkah-langkah berikut:
+
+1. Temukan lowongan kerja yang sesuai dengan bakat dan minat Anda. Seperti contoh adalah lowongan menjadi *Full-stack Web Developer* yang diterbitkan oleh PT. Akatekno Inovasi Indonesia.
+
+![](./pelamar/applying-2.png)
+
+Sebelum melamar, Anda dapat melakukan banyak hal seperti:
+- Melihat detail dari lowongan kerja tersebut.
+- Menyimpan lowongan kerja tersebut.
+- Membagikan lowongan kerja tersebut.
+- Melihat detail dari perusahaan yang menerbitkan lowongan kerja tersebut.
+
+2. Baca ketentuan dan persyaratan yang dibutuhkan untuk lowongan tersebut dengan cara menekan tombol `Lihat Detail`.
+
+![](./pelamar/applying-3.png)
+
+Setelah membaca ketentuan dan persyaratan secara seksama, silahkan tekan tombol `Lamar`.
+
+3. Mengisi persyaratan lamaran kerja.
+
+![](./pelamar/applying-4.png)
+
+Setelah Anda menakan tombol `Lamar`, terdapat beberapa inputan yang beberapa harus diisi, pada bagian Informasi Pelamar, terdapat inputan sebagai berikut:
+- Nama Lengkap - diisi dengan nama lengkap Anda. Jika Anda sudah melengkapi inputan ini pada halaman Profil, inputan ini akan terisi secara otomatis.
+- Nomor HP - diisi dengan nomor HP Anda **yang dapat dihubungi**. Jika Anda sudah melengkapi inputan ini pada halaman Profil, inputan ini akan terisi secara otomatis. Namun perlu diperhatikan bahwa nomor HP harus berformat awal 62 dan diisi tanpa strip atau spasi.
+- Alamat - diisi dengan alamat lengkap Anda sekarang tinggal, inputan ini tidak akan terisi secara otomatis.
+- Kode Pos - diisi dengan Kode Pos tempat Anda sekarang tinggal, inputan ini akan terisi secara otomatis.
+
+![](./pelamar/applying-5.png)
+
+Pada bagian *Resume*, terdapat beberapa inputan juga yang dapat diisi untuk meningkatkan Anda lolos ke tahap selanjutnya:
+- *Resume* - input unggahan dokumen *resume*, Anda dapat mengunggah file berupa Dokumen Microsoft Word, atau PDF dengan ukuran maksimal 2MB.
+- Kata Pengantar - input isian yang akan tampil pada saat perusahaan membuka detail pelamar pada lowongan kerja tersebut.
+
+Setelah dirasa semuanya sudah lengkap, silahkan tekan tombol `Kirim Lamaran` yang ada di kanan bawah modal. Aksi ini akan mengirimkan data Lamaran Anda ke perusahaan terkait.
+
+{{< alert cardColor="#0ea5e9" iconColor="#0369a1" textColor="#0c4a6e" >}}
+Data Lamaran yang sudah dikirim tidak dapat diubah atau dihapus dari sistem. Pastikan data Lamaran yang Anda kirim sudah sesuai dengan yang diinginkan oleh perusahaan dan mengirim kata pengantar yang baik dan benar.
+{{< /alert >}}
+
+![](./pelamar/applying-6.png)
+
+Setelah Anda mengirim lamaran, maka Anda tidak dapat melamar pada lowongan kerja tersebut untuk yang ke-dua kalinya. Akan terdapat `Status Lamaran` yang menandakan bahwa lamaran Anda pada lowongan tersebut masih `Pending`, `Ditolak` atau `Diterima`.
+
+![](./pelamar/applying-7.png)
+
+Anda juga dapat melihat seluruh lowongan yang sudah Anda lamar pada menu `Lamaran Saya` yang terdapat pada menu navigasi yang terdapat pada bagian atas aplikasi.
+
+
+### Menyimpan Lowongan Pekerjaan
+
+Untuk menyimpan sebuah lowongan, pilih salah satu lowongan yang terdaftar, lalu klik tombol `Simpan`.
+
+![](./pelamar/bookmark-1.png)
+
+Seluruh lamaran yang sudah Anda simpan dapat dibedakan melalui warna tombol `Simpan`.
+
+![](./pelamar/bookmark-2.png)
+
+Anda dapat melihat seluruh lowongan yang sudah disimpan pada menu `Lowongan Disimpan` yang terdapat pada menu navigasi yang terdapat pada bagian atas aplikasi.
+
+![](./pelamar/bookmark-3.png)
+
+
+### Membagikan Lowongan Pekerjaan
+
+Untuk menyimpan sebuah lowongan, pilih salah satu lowongan yang terdaftar, lalu klik tombol `Bagikan`.
+
+![](./pelamar/bookmark-2.png)
+
+Anda akan melihat sebuah dialog bahwa tautan lowongan telah disalin ke *clipboard*
+
+![](./pelamar/share-1.png)
+
+Hasil tautan yang disalin seperti ini: `https://pugugo.test?vacancyId=9b7f1988-53ae-49ae-947e-ace8b8007ec8`.
