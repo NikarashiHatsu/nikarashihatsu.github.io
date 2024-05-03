@@ -4,7 +4,7 @@ date: 2024-05-04T05:40:00+07:00
 tags: ["article", "laravel", "web", "technology", "lks"]
 draft: false
 series: ["Modul 3 LKS Provinsi Web Technology"]
-series_order: 1
+series_order: 2
 ---
 
 Halo semua 👋, jika kalian membaca ini, berarti Anda telah lolos ke tahap selanjutnya dan siap berkompetisi dengan beberapa kompetetitor lain. Selamat berpusing-pusing ria, dan jangan lupa untuk semangat belajarnya.
