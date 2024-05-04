@@ -999,3 +999,5 @@ Pada blok `try`, kita coba untuk menghapus data token-token yang terkait pada Us
 ## Akhir kata
 
 Ini adalah artikel panjang yang memiliki durasi sekitar 20 menit, jadi dibutuhkan kesabaran untuk membaca secara teliti langkah demi langkah yang harus diimplementasikan. Terima kasih sudah membaca sampai akhir, semoga Anda lolos dalam LKS Provinsi 2024!
+
+[Kode lengkap](https://github.com/NikarashiHatsu/lks-modul-3-be/tree/autentikasi).
