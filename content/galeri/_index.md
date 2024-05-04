@@ -14,13 +14,11 @@ hobi fotografi.
 {{< gallery >}}
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.46.40 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.00 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./2024/WhatsApp Image 2024-05-04 at 8.47.00 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.07 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.18 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.18 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.19 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.19 PM (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./2024/WhatsApp Image 2024-05-04 at 8.47.19 PM (3).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.19 PM (5).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.19 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-05-04 at 8.47.20 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />

@@ -49,6 +49,30 @@
   url = "/galeri"
 
 [[main]]
+  name = "2024"
+  parent = "Galeri"
+  weight = 996
+  url = "/galeri"
+
+[[main]]
+  name = "2023"
+  parent = "Galeri"
+  weight = 997
+  url = "/galeri/2023"
+
+[[main]]
+  name = "2022"
+  parent = "Galeri"
+  weight = 998
+  url = "/galeri/2022"
+
+[[main]]
+  name = "2021"
+  parent = "Galeri"
+  weight = 999
+  url = "/galeri/2021"
+
+[[main]]
   pre = "option"
   name = "Lainnya"
   weight = 20
