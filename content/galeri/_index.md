@@ -14,7 +14,7 @@ hobi fotografi.
 {{< gallery >}}
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.22 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.22 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.24 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
