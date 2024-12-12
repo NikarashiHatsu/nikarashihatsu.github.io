@@ -12,6 +12,45 @@ hobi fotografi.
 
 ## Tahun 2024
 {{< gallery >}}
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.00.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.01.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.02 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.02 (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.02 (3).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.02.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.03.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.04.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.05 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.05 (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.05.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.07.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.08.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.09.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.10 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.10 (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.10.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.14.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.15 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.15 (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.15.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.20 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.20.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.21 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.21.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.24.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.27.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.29.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.30.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.31.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.35.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.39 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.39.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.40.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.45 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.45.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.48 (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.48.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="./2024/WhatsApp Image 2024-12-11 at 14.08.50.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM (1).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM (2).jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="./2024/WhatsApp Image 2024-07-17 at 4.35.21 PM.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
