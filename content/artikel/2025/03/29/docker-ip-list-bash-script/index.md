@@ -3,8 +3,6 @@ title: "List IP Docker Container menggunakan Bash"
 date: 2025-03-29T04:10:00+07:00
 tags: ["article", "bash", "docker"]
 draft: false
-authors:
-    - aghits
 ---
 
 Bash adalah sebuah *Command-line Interpreter* yang digunakan secara umum pada sistem operasi berbasis Unix-like, seperti Linux dan MacOS. Yang memungkinkan pengguna berinteraksi dengan sisten dengan cara mengotomatisasi tugas-tugas yang ingin diselesaikan melalui sebuah perintah.

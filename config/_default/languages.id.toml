@@ -1,22 +1,23 @@
+disabled = false
 languageCode = "id"
-languageName = "English"
-displayName = "ID"
-isoCode = "id"
+languageName = "Bahasa Indonesia"
 weight = 1
-rtl = false
 
-title = "A Developer's Note"
-logo = "img/logo.png"
-# secondaryLogo = "img/secondary-logo.png"
-# description = "My awesome website"
-copyright = "Aghits Nidallah - shiroyuki.dev ©2023"
 
-dateFormat = "2 January 2006"
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  title = "A Developer's Note"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "Aghits Nidallah - shiroyuki.dev ©2025"
 
-[author]
+[params.author]
   name = "Aghits Nidallah"
   image = "img/authors/aghitsnidallah.jpg"
-#  headline = ""
   bio = "Halo, nama saya Aghits Nidallah 👋. Saya seorang `{full-stack,mobile}` developer, mahasiswa, dan `{manusia,robot}` yang hidup dengan menikmati kopi 24/7 ☕️."
   links = [
     { facebook = "https://facebook.com/irlnidallah" },
@@ -26,39 +27,4 @@ dateFormat = "2 January 2006"
     { github = "https://github.com/NikarashiHatsu" },
     { linkedin = "https://www.linkedin.com/in/aghits-nidallah-9b6728221/" },
     { email = "mailto:yourlovelydev@gmail.com" },
-#     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
-#     { apple = "https://www.apple.com" },
-#     { blogger = "https://username.blogspot.com/" },
-#     { codepen = "https://codepen.io/username" },
-#     { dev = "https://dev.to/username" },
-#     { discord = "https://discord.gg/invitecode" },
-#     { dribbble = "https://dribbble.com/username" },
-#     { flickr = "https://www.flickr.com/photos/username/" },
-#     { foursquare = "https://foursquare.com/username" },
-#     { gitlab = "https://gitlab.com/username" },
-#     { google = "https://www.google.com/" },
-#     { hashnode = "https://username.hashnode.dev" },
-#     { keybase = "https://keybase.io/username" },
-#     { kickstarter = "https://www.kickstarter.com/profile/username" },
-#     { lastfm = "https://lastfm.com/user/username" },
-#     { mastodon = "https://mastodon.instance/@username" },
-#     { medium = "https://medium.com/username" },
-#     { microsoft = "https://www.microsoft.com/" },
-#     { orcid = "https://orcid.org/userid" },
-#     { patreon = "https://www.patreon.com/username" },
-#     { pinterest = "https://pinterest.com/username" },
-#     { reddit = "https://reddit.com/user/username" },
-#     { researchgate = "https://www.researchgate.net/profile/username" },
-#     { slack = "https://workspace.url/team/userid" },
-#     { snapchat = "https://snapchat.com/add/username" },
-#     { soundcloud = "https://soundcloud.com/username" },
-#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-#     { steam = "https://steamcommunity.com/profiles/userid" },
-#     { telegram = "https://t.me/username" },
-#     { tiktok = "https://tiktok.com/@username" },
-#     { tumblr = "https://username.tumblr.com" },
-#     { twitch = "https://twitch.tv/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
-#     { ko-fi = "https://ko-fi.com/username" },
   ]
