@@ -1,0 +1,14 @@
+{
+    "name": "Aghits Nidallah",
+    "image" : "img/authors/aghitsnidallah.jpg",
+    "bio": "Seorang manusia.",
+    "social": [
+        { "facebook": "https://facebook.com/irlnidallah" },
+        { "twitter": "https://twitter.com/irlnidallah" },
+        { "instagram": "https://instagram.com/irlnidallah" },
+        { "youtube": "https://www.youtube.com/@aghitsnidallah7953/" },
+        { "github": "https://github.com/NikarashiHatsu" },
+        { "linkedin": "https://www.linkedin.com/in/aghits-nidallah-9b6728221/" },
+        { "email": "mailto:yourlovelydev@gmail.com" }
+    ]
+}
