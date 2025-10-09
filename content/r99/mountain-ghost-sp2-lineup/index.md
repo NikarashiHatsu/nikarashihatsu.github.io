@@ -67,3 +67,6 @@ This team lineup is based on my YouTube video, which has been published at July
 
 ### Mind Map
 ![Mountain Ghost Mind Map](./mountain-ghost-mind-map.webp)
+
+Edit (09-10-2025): I guess I won't be uploading any Reverse 1999 or any blog
+sooner or later. The workload is too immense.
