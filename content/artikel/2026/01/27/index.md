@@ -1,6 +1,7 @@
 ---
 title: "Turning My Unused Tablet Into a Second Display Using Sunshine/Moonlight on MacOS"
 description: "Who would've thought extending displays to Android devices would be this painful on MacOS?"
+tags: ["article"]
 date: 2026-01-27T05:02:50+07:00
 draft: false
 ---
